@@ -53,7 +53,7 @@ You can later replace the bbox or place query with your own highway segment.
 ## Build a Real Highway Scenario
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\build_highway_scenario.py --config d:\vscodeworkspace\configs\highway\beijing_g6_demo.json
+ \.venv\Scripts\python.exe  \scripts\build_highway_scenario.py --config  \configs\highway\beijing_g6_demo.json
 ```
 
 This downloads OSM data, generates the SUMO network, generates traffic flows, and writes `highway.sumocfg`.
@@ -63,7 +63,7 @@ This downloads OSM data, generates the SUMO network, generates traffic flows, an
 Demo mode:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode demo --config d:\vscodeworkspace\configs\highway\beijing_g6_demo.json
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode demo --config  \configs\highway\beijing_g6_demo.json
 ```
 
 The demo places slow vehicles ahead of willing helper vehicles, so both Stage-I and Stage-II can be observed quickly.
@@ -71,20 +71,20 @@ The demo places slow vehicles ahead of willing helper vehicles, so both Stage-I 
 SUMO mode using the generated real-map scenario:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode sumo --config d:\vscodeworkspace\configs\highway\beijing_g6_demo.json --steps 30
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode sumo --config  \configs\highway\beijing_g6_demo.json --steps 30
 ```
 
 highD replay mode:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode highd --config d:\vscodeworkspace\configs\highway\highd_segments\highd_location_2.json --steps 50
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode highd --config  \configs\highway\highd_segments\highd_location_2.json --steps 50
 ```
 
 Build or run the matching SUMO-side Autobahn segment:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\build_highway_scenario.py --config d:\vscodeworkspace\configs\highway\highd_segments\highd_location_2.json
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode sumo --config d:\vscodeworkspace\configs\highway\highd_segments\highd_location_2.json
+ \.venv\Scripts\python.exe  \scripts\build_highway_scenario.py --config  \configs\highway\highd_segments\highd_location_2.json
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode sumo --config  \configs\highway\highd_segments\highd_location_2.json
 ```
 
 Put the highD files under `data/highD/` by default:
@@ -98,7 +98,7 @@ data/highD/01_recordingMeta.csv
 List local highD recordings before switching segments:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\list_highd_recordings.py
+ \.venv\Scripts\python.exe  \scripts\list_highd_recordings.py
 ```
 
 For `configs/highway/highd_segments/highd_location_*.json`, `dataset.recording_id: 0` means the loader scans `data/highD` and selects the first recording whose `recordingMeta.locationId` matches `dataset.location_id`.
@@ -113,7 +113,7 @@ For paper reproducibility assets, use the `paper/` workspace:
 Open the GUI:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode sumo --config d:\vscodeworkspace\configs\highway\beijing_g6_demo.json --gui
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode sumo --config  \configs\highway\beijing_g6_demo.json --gui
 ```
 
 ## Baseline Comparisons
@@ -121,7 +121,7 @@ d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py 
 Select a single method or baseline with `--policy`:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\vanet_offload.py --mode demo --policy delay-greedy-v2v --steps 20
+ \.venv\Scripts\python.exe  \vanet_offload.py --mode demo --policy delay-greedy-v2v --steps 20
 ```
 
 Implemented policies:
@@ -134,20 +134,17 @@ Implemented policies:
 - `no-baseline-maintenance`
 - `no-incentive`
 - `static-cluster`
-- `fan-2023`
-- `nan-2023`
-- `kumar-2023`
 
 Batch-run the comparison table and write a CSV:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\run_baselines.py --steps 30 --quiet --output d:\vscodeworkspace\results\baseline_comparison.csv
+ \.venv\Scripts\python.exe  \scripts\run_baselines.py --steps 30 --quiet --output  \results\baseline_comparison.csv
 ```
 
 Export the full plotting table for the paper experiments into one CSV:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\export_experiment_results.py --steps 20 --output d:\vscodeworkspace\results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\export_experiment_results.py --steps 20 --output  \results\paper_experiment_results.csv
 ```
 
 The exported file is a long table. Use `record_type=summary` for aggregate bar/line plots, `record_type=slot` for time-series plots, and `record_type=contrast` for direct `ours - stage-i-only` marginal gains.
@@ -155,19 +152,19 @@ The exported file is a long table. Use `record_type=summary` for aggregate bar/l
 Draw all current paper figures:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_experiment_results.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_experiment_results.py --input  \results\paper_experiment_results.csv
 ```
 
 Draw individual figure groups:
 
 ```powershell
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_method_comparison.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_density_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_task_load_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_time_series_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_communication_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_stage2_ablation_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
-d:\vscodeworkspace\.venv\Scripts\python.exe d:\vscodeworkspace\scripts\plot_safety_incentive_figures.py --input d:\vscodeworkspace\results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_method_comparison.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_density_figures.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_task_load_figures.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_time_series_figures.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_communication_figures.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_stage2_ablation_figures.py --input  \results\paper_experiment_results.csv
+ \.venv\Scripts\python.exe  \scripts\plot_safety_incentive_figures.py --input  \results\paper_experiment_results.csv
 ```
 
 The literature-named policies are same-resource-pool adapted proxies, intended for controlled experiments rather than full faithful reimplementations of external training pipelines.
