@@ -1,0 +1,64 @@
+{
+  "name": "highd_location_1_autobahn",
+  "map": {
+    "output_dir": "scenarios/highd/location_1",
+    "prefix": "highd_l1",
+    "place_query": "highD location 1 approximate Autobahn corridor near Cologne, Germany",
+    "bbox": [6.900, 50.985, 6.985, 51.045],
+    "highd_location_id": 1,
+    "segment_label": "highD location 1 approximate SUMO segment",
+    "segment_note": "Editable approximate OSM Autobahn corridor. Replace bbox if exact highD georeference is available.",
+    "road_types": {"highway": ["motorway", "motorway_link", "trunk", "trunk_link"]},
+    "keep_edge_types": ["highway.motorway", "highway.motorway_link", "highway.trunk", "highway.trunk_link"],
+    "remove_geometry": true,
+    "join_junctions": true,
+    "guess_ramps": true
+  },
+  "route": {
+    "begin": 0.0,
+    "end": 900.0,
+    "period": 2.0,
+    "fringe_factor": 20.0,
+    "seed": 7,
+    "validate": true
+  },
+  "dataset": {
+    "type": "highd",
+    "root": "data/highD",
+    "location_id": 1,
+    "recording_id": 0,
+    "start_frame": 0,
+    "end_frame": 250,
+    "frame_step": 5,
+    "driving_direction": null,
+    "lane_ids": null,
+    "max_vehicles": 24,
+    "center_positions": true
+  },
+  "mobility": {
+    "safe_distance": 80.0,
+    "acceleration": 3.0,
+    "system_delay_cap": 0.25,
+    "min_speed": 20.0,
+    "speed_limit": 33.33,
+    "max_acceleration": 2.5,
+    "segment_length": 1000.0
+  },
+  "communication": {
+    "bandwidth": 10000000.0,
+    "tx_power": 0.1,
+    "noise_density": 1e-09,
+    "pathloss_exp": 2.5,
+    "pathloss_const": 0.001,
+    "max_distance": 300.0,
+    "min_rate": 100000.0
+  },
+  "simulation": {
+    "mode": "highd",
+    "policy": "ours",
+    "steps": 60,
+    "seed": 7,
+    "step_length": 0.2,
+    "max_vehicles": 24
+  }
+}

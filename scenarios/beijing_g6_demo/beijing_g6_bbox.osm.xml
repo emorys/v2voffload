@@ -1,0 +1,3336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2026-04-21 14:50:50.690517 by osmGet.py v1_23_1+0000-676720d13f6
+<configuration>
+    <prefix value="D:\vscodeworkspace\scenarios\beijing_g6_demo\beijing_g6"/>
+    <bbox value="116.345000,39.990000,116.371000,40.026000"/>
+    <road-types value="{&quot;highway&quot;: [&quot;motorway&quot;, &quot;motorway_link&quot;, &quot;trunk&quot;, &quot;trunk_link&quot;]}"/>
+</configuration>
+-->
+
+
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-04-21T06:49:44Z"/>
+
+  <node id="237538524" lat="40.0215817" lon="116.3542800"/>
+  <node id="237538601" lat="40.0206032" lon="116.3482857"/>
+  <node id="237538626" lat="40.0208383" lon="116.3471834"/>
+  <node id="237538657" lat="40.0210022" lon="116.3468854"/>
+  <node id="237538750" lat="40.0211744" lon="116.3466441"/>
+  <node id="237538778" lat="40.0213679" lon="116.3464495"/>
+  <node id="237538815" lat="40.0218857" lon="116.3460860"/>
+  <node id="237538886" lat="40.0228197" lon="116.3458232"/>
+  <node id="237538919" lat="40.0233000" lon="116.3457006"/>
+  <node id="237538952" lat="40.0238671" lon="116.3455845"/>
+  <node id="237538987" lat="40.0243775" lon="116.3454137">
+    <tag k="destination" v="北五环"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="北五环"/>
+    <tag k="ref" v="6"/>
+  </node>
+  <node id="237546286" lat="39.9909050" lon="116.3708911">
+    <tag k="destination" v="志新路;安翔北路"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="志新路/安翔北路"/>
+    <tag k="ref" v="3A"/>
+  </node>
+  <node id="237546309" lat="39.9924249" lon="116.3698296"/>
+  <node id="237546444" lat="39.9996138" lon="116.3643323"/>
+  <node id="237546554" lat="40.0191978" lon="116.3495547"/>
+  <node id="237546576" lat="40.0212175" lon="116.3480790"/>
+  <node id="237546599" lat="40.0225658" lon="116.3471166"/>
+  <node id="237546623" lat="40.0245186" lon="116.3454785"/>
+  <node id="239434611" lat="40.0197752" lon="116.3492456"/>
+  <node id="244256506" lat="40.0206327" lon="116.3487342"/>
+  <node id="244256507" lat="40.0207164" lon="116.3491368"/>
+  <node id="244256508" lat="40.0208029" lon="116.3494937"/>
+  <node id="249560945" lat="40.0217037" lon="116.3542356"/>
+  <node id="249560946" lat="40.0217201" lon="116.3528322">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="G6"/>
+    <tag k="ref" v="43A-B"/>
+  </node>
+  <node id="249560947" lat="40.0219201" lon="116.3512169"/>
+  <node id="249560948" lat="40.0224999" lon="116.3496415"/>
+  <node id="249560949" lat="40.0227419" lon="116.3489858"/>
+  <node id="249560950" lat="40.0231330" lon="116.3479225"/>
+  <node id="249560953" lat="40.0232385" lon="116.3475193"/>
+  <node id="249560956" lat="40.0232605" lon="116.3472138"/>
+  <node id="249560957" lat="40.0232384" lon="116.3469304"/>
+  <node id="249560958" lat="40.0231493" lon="116.3466435"/>
+  <node id="249560959" lat="40.0230150" lon="116.3464280"/>
+  <node id="249560960" lat="40.0226789" lon="116.3461704"/>
+  <node id="249560965" lat="40.0225185" lon="116.3461450"/>
+  <node id="249560966" lat="40.0223428" lon="116.3461407"/>
+  <node id="249561009" lat="40.0221784" lon="116.3462027"/>
+  <node id="249561019" lat="40.0220036" lon="116.3463058"/>
+  <node id="249561020" lat="40.0218251" lon="116.3464881"/>
+  <node id="249561043" lat="40.0214939" lon="116.3470146"/>
+  <node id="249561047" lat="40.0211270" lon="116.3476219"/>
+  <node id="249561048" lat="40.0207487" lon="116.3481157"/>
+  <node id="249561078" lat="39.9995434" lon="116.3641815"/>
+  <node id="249561081" lat="39.9923467" lon="116.3697054"/>
+  <node id="249561082" lat="39.9916386" lon="116.3704342"/>
+  <node id="249561083" lat="39.9915597" lon="116.3702653"/>
+  <node id="249561085" lat="39.9907834" lon="116.3707089"/>
+  <node id="249561097" lat="39.9903370" lon="116.3709039"/>
+  <node id="249561104" lat="39.9899503" lon="116.3710477">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="北四环"/>
+    <tag k="ref" v="2"/>
+  </node>
+  <node id="261615246" lat="40.0218280" lon="116.3452035"/>
+  <node id="261615253" lat="40.0230318" lon="116.3456688"/>
+  <node id="261615254" lat="40.0227951" lon="116.3455970"/>
+  <node id="261615255" lat="40.0222676" lon="116.3451211"/>
+  <node id="261615256" lat="40.0221315" lon="116.3448746"/>
+  <node id="261615267" lat="40.0216938" lon="116.3433525">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="G6"/>
+    <tag k="ref" v="43A-B"/>
+  </node>
+  <node id="261615274" lat="40.0215507" lon="116.3444768"/>
+  <node id="261615275" lat="40.0208509" lon="116.3464016"/>
+  <node id="261615276" lat="40.0200282" lon="116.3481759"/>
+  <node id="261615277" lat="40.0198415" lon="116.3484912"/>
+  <node id="261615278" lat="40.0196214" lon="116.3488072"/>
+  <node id="261615279" lat="40.0189584" lon="116.3496201"/>
+  <node id="261615327" lat="40.0204632" lon="116.3485828"/>
+  <node id="261615348" lat="40.0211644" lon="116.3483611"/>
+  <node id="261615349" lat="40.0220266" lon="116.3478050"/>
+  <node id="261615350" lat="40.0222562" lon="116.3477277"/>
+  <node id="261615351" lat="40.0224588" lon="116.3477555"/>
+  <node id="261615352" lat="40.0227369" lon="116.3483743"/>
+  <node id="261615354" lat="40.0225219" lon="116.3487729"/>
+  <node id="261615355" lat="40.0223447" lon="116.3488301"/>
+  <node id="261615356" lat="40.0222604" lon="116.3488202"/>
+  <node id="261615357" lat="40.0219805" lon="116.3486125"/>
+  <node id="261615358" lat="40.0218853" lon="116.3483377"/>
+  <node id="261615359" lat="40.0218231" lon="116.3468620"/>
+  <node id="261615397" lat="40.0223321" lon="116.3500382"/>
+  <node id="261615426" lat="40.0228204" lon="116.3490308"/>
+  <node id="261615427" lat="40.0231764" lon="116.3482916"/>
+  <node id="261615429" lat="40.0236855" lon="116.3469277">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="上清收费站"/>
+  </node>
+  <node id="261615549" lat="40.0210650" lon="116.3460529"/>
+  <node id="261615550" lat="40.0207473" lon="116.3470247"/>
+  <node id="261615551" lat="40.0204782" lon="116.3478487"/>
+  <node id="261615552" lat="40.0203420" lon="116.3486990"/>
+  <node id="261615553" lat="40.0205816" lon="116.3497386"/>
+  <node id="261615554" lat="40.0207382" lon="116.3499598"/>
+  <node id="261615555" lat="40.0212632" lon="116.3503849"/>
+  <node id="261615556" lat="40.0214676" lon="116.3504299"/>
+  <node id="261615557" lat="40.0218913" lon="116.3504022"/>
+  <node id="261615558" lat="40.0224682" lon="116.3500601"/>
+  <node id="261615559" lat="40.0227297" lon="116.3496629"/>
+  <node id="261615560" lat="40.0233593" lon="116.3481093"/>
+  <node id="261615561" lat="40.0235323" lon="116.3474510"/>
+  <node id="292590715" lat="40.0218621" lon="116.3410978"/>
+  <node id="292590743" lat="40.0217199" lon="116.3410706"/>
+  <node id="321559328" lat="40.0225200" lon="116.3469009"/>
+  <node id="321559342" lat="40.0211674" lon="116.3479381"/>
+  <node id="339581052" lat="40.0220747" lon="116.3507218"/>
+  <node id="528764201" lat="40.0214123" lon="116.3756886"/>
+  <node id="610908217" lat="40.0098030" lon="116.3567872"/>
+  <node id="610908219" lat="40.0114479" lon="116.3555832">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="清河收费站"/>
+  </node>
+  <node id="610908272" lat="40.0113581" lon="116.3553854">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="清河收费站"/>
+  </node>
+  <node id="610908274" lat="40.0098008" lon="116.3566085"/>
+  <node id="610908313" lat="40.0125464" lon="116.3544606"/>
+  <node id="610908415" lat="39.9917373" lon="116.3705591"/>
+  <node id="610909799" lat="40.0097693" lon="116.3563820"/>
+  <node id="610910322" lat="39.9912164" lon="116.3702966"/>
+  <node id="701171245" lat="40.0078490" lon="116.3572850"/>
+  <node id="701171488" lat="40.0078412" lon="116.3566948"/>
+  <node id="701171490" lat="40.0079078" lon="116.3564580"/>
+  <node id="701171497" lat="40.0081326" lon="116.3562466"/>
+  <node id="701171499" lat="40.0083927" lon="116.3562276"/>
+  <node id="701171501" lat="40.0085589" lon="116.3563294"/>
+  <node id="701171504" lat="40.0086369" lon="116.3564287"/>
+  <node id="701171505" lat="40.0087200" lon="116.3566469"/>
+  <node id="701171507" lat="40.0086082" lon="116.3571993"/>
+  <node id="701171510" lat="40.0069212" lon="116.3586875"/>
+  <node id="701733618" lat="39.9905395" lon="116.3710432"/>
+  <node id="737043848" lat="40.0067708" lon="116.3585236">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="737043850" lat="40.0038823" lon="116.3615081">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡南"/>
+    <tag k="name:zh" v="双泉堡南"/>
+    <tag k="name:zh-Hans" v="双泉堡南"/>
+    <tag k="name:zh-Hant" v="雙泉堡南"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="737043854" lat="40.0042475" lon="116.3605153">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡南"/>
+    <tag k="name:zh" v="双泉堡南"/>
+    <tag k="name:zh-Hans" v="双泉堡南"/>
+    <tag k="name:zh-Hant" v="雙泉堡南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="737043856" lat="39.9987716" lon="116.3645575">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥南"/>
+    <tag k="name:zh" v="北沙滩桥南"/>
+    <tag k="name:zh-Hans" v="北沙滩桥南"/>
+    <tag k="name:zh-Hant" v="北沙灘橋南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="737043858" lat="39.9990367" lon="116.3649814">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥南"/>
+    <tag k="name:zh" v="北沙滩桥南"/>
+    <tag k="name:zh-Hans" v="北沙滩桥南"/>
+    <tag k="name:zh-Hant" v="北沙灘橋南"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="737043871" lat="40.0086951" lon="116.3577843">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1225601288" lat="40.0239118" lon="116.3462555"/>
+  <node id="1317051437" lat="40.0120786" lon="116.3554830"/>
+  <node id="1317051440" lat="40.0203595" lon="116.3490307"/>
+  <node id="1317051460" lat="40.0176092" lon="116.3504287"/>
+  <node id="1317051468" lat="40.0105467" lon="116.3556036"/>
+  <node id="1317051471" lat="40.0218453" lon="116.3516728"/>
+  <node id="1317051476" lat="40.0215584" lon="116.3558666"/>
+  <node id="1317051486" lat="40.0205492" lon="116.3470974"/>
+  <node id="1317051487" lat="40.0220000" lon="116.3445106"/>
+  <node id="1317051489" lat="40.0200636" lon="116.3486559"/>
+  <node id="1317051491" lat="40.0216684" lon="116.3452098"/>
+  <node id="1317051494" lat="40.0221245" lon="116.3487591"/>
+  <node id="1317051496" lat="40.0214129" lon="116.3535328">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="上清东收费站"/>
+  </node>
+  <node id="1317051505" lat="40.0214436" lon="116.3527009"/>
+  <node id="1317051507" lat="40.0216086" lon="116.3440832"/>
+  <node id="1317051510" lat="40.0203761" lon="116.3482596"/>
+  <node id="1317051511" lat="40.0221058" lon="116.3503183"/>
+  <node id="1317051521" lat="40.0215194" lon="116.3522366"/>
+  <node id="1317051523" lat="40.0215960" lon="116.3509394"/>
+  <node id="1317051525" lat="40.0249994" lon="116.3449295"/>
+  <node id="1317051527" lat="40.0225475" lon="116.3454403"/>
+  <node id="1317051529" lat="40.0213384" lon="116.3532228"/>
+  <node id="1317051534" lat="40.0214758" lon="116.3523281"/>
+  <node id="1317051537" lat="40.0250593" lon="116.3451148"/>
+  <node id="1317051539" lat="40.0217635" lon="116.3509395"/>
+  <node id="1317051541" lat="40.0129538" lon="116.3543879"/>
+  <node id="1317051553" lat="40.0207169" lon="116.3475274"/>
+  <node id="1317051554" lat="40.0217701" lon="116.3503037"/>
+  <node id="1317051557" lat="40.0216650" lon="116.3467070"/>
+  <node id="1317051559" lat="40.0193497" lon="116.3491262"/>
+  <node id="1317051575" lat="40.0214896" lon="116.3519612"/>
+  <node id="1317051579" lat="40.0219416" lon="116.3411481"/>
+  <node id="1317051589" lat="40.0216041" lon="116.3462423"/>
+  <node id="1317051593" lat="40.0123596" lon="116.3551715"/>
+  <node id="1317051597" lat="40.0204820" lon="116.3495188"/>
+  <node id="1317051607" lat="40.0094562" lon="116.3568684"/>
+  <node id="1317051609" lat="40.0226103" lon="116.3498691"/>
+  <node id="1317051617" lat="40.0208934" lon="116.3501293"/>
+  <node id="1317051620" lat="40.0219421" lon="116.3442048"/>
+  <node id="1317051631" lat="40.0179930" lon="116.3502304"/>
+  <node id="1317051633" lat="40.0214427" lon="116.3541475"/>
+  <node id="1317051636" lat="40.0219906" lon="116.3406363"/>
+  <node id="1317051638" lat="40.0112204" lon="116.3550128">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="清河收费站"/>
+  </node>
+  <node id="1317051647" lat="40.0214853" lon="116.3545481"/>
+  <node id="1317051648" lat="40.0214044" lon="116.3528873"/>
+  <node id="1317051649" lat="40.0214257" lon="116.3449598"/>
+  <node id="1317051650" lat="40.0222706" lon="116.3502232"/>
+  <node id="1317051651" lat="40.0204704" lon="116.3483403"/>
+  <node id="1317051663" lat="40.0227436" lon="116.3481576"/>
+  <node id="1317051665" lat="40.0215151" lon="116.3525036"/>
+  <node id="1317051668" lat="40.0213414" lon="116.3537601"/>
+  <node id="1317051673" lat="40.0214740" lon="116.3525122"/>
+  <node id="1317051674" lat="40.0257068" lon="116.3446231"/>
+  <node id="1317051684" lat="40.0118063" lon="116.3546755"/>
+  <node id="1317051688" lat="40.0206343" lon="116.3478611"/>
+  <node id="1317051689" lat="40.0215987" lon="116.3502926"/>
+  <node id="1317051694" lat="40.0222090" lon="116.3459780"/>
+  <node id="1317051695" lat="40.0212308" lon="116.3455330"/>
+  <node id="1317051696" lat="40.0209427" lon="116.3478834"/>
+  <node id="1317051697" lat="40.0214187" lon="116.3516199"/>
+  <node id="1317051699" lat="40.0190171" lon="116.3494519"/>
+  <node id="1317051703" lat="40.0226620" lon="116.3479498"/>
+  <node id="1317051716" lat="40.0125919" lon="116.3548824"/>
+  <node id="1317051720" lat="40.0228609" lon="116.3462789"/>
+  <node id="1317051729" lat="40.0202985" lon="116.3476397"/>
+  <node id="1317051734" lat="40.0229143" lon="116.3492913"/>
+  <node id="1317051736" lat="40.0212290" lon="116.3509496"/>
+  <node id="1317051743" lat="40.0216854" lon="116.3504372"/>
+  <node id="1317051746" lat="40.0219215" lon="116.3438028"/>
+  <node id="1346457656" lat="40.0207668" lon="116.3685179"/>
+  <node id="1346457657" lat="40.0208037" lon="116.3689937"/>
+  <node id="1346457670" lat="40.0208970" lon="116.3693143"/>
+  <node id="1346457680" lat="40.0210112" lon="116.3667981"/>
+  <node id="1346457682" lat="40.0210205" lon="116.3695291"/>
+  <node id="1346457714" lat="40.0212075" lon="116.3697179"/>
+  <node id="1346457716" lat="40.0212688" lon="116.3734605"/>
+  <node id="1346457722" lat="40.0213568" lon="116.3578436"/>
+  <node id="1346457725" lat="40.0213606" lon="116.3570303"/>
+  <node id="1346457732" lat="40.0214058" lon="116.3627578">
+    <tag k="destination" v="黑泉路"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="黑泉路"/>
+    <tag k="ref" v="43D"/>
+  </node>
+  <node id="1346457734" lat="40.0214497" lon="116.3731065"/>
+  <node id="1346457738" lat="40.0214883" lon="116.3591371"/>
+  <node id="1346457745" lat="40.0215566" lon="116.3559918">
+    <tag k="destination" v="林萃路"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="林萃路"/>
+    <tag k="ref" v="43C"/>
+  </node>
+  <node id="1346457755" lat="40.0215851" lon="116.3698995"/>
+  <node id="1346457772" lat="40.0217878" lon="116.3651380"/>
+  <node id="1346457794" lat="40.0217447" lon="116.3699035"/>
+  <node id="1346457815" lat="40.0220511" lon="116.3698159"/>
+  <node id="1346457831" lat="40.0224660" lon="116.3694240"/>
+  <node id="1346457848" lat="40.0228866" lon="116.3688562"/>
+  <node id="1346457858" lat="40.0230522" lon="116.3686513"/>
+  <node id="1346457880" lat="40.0233181" lon="116.3684448"/>
+  <node id="1346457887" lat="40.0238642" lon="116.3682516"/>
+  <node id="1346457902" lat="40.0241239" lon="116.3681788"/>
+  <node id="1359330063" lat="39.9911681" lon="116.3705096"/>
+  <node id="1359330069" lat="39.9918061" lon="116.3700903"/>
+  <node id="1359330070" lat="39.9918692" lon="116.3702681"/>
+  <node id="1359330094" lat="40.0006468" lon="116.3633505"/>
+  <node id="1359330095" lat="40.0007128" lon="116.3635080"/>
+  <node id="1359330119" lat="40.0078539" lon="116.3565871"/>
+  <node id="1359330123" lat="40.0079777" lon="116.3563599"/>
+  <node id="1359330133" lat="40.0082480" lon="116.3562079"/>
+  <node id="1359330141" lat="40.0086845" lon="116.3570541"/>
+  <node id="1359330142" lat="40.0086854" lon="116.3565246"/>
+  <node id="1359330144" lat="40.0087248" lon="116.3569105"/>
+  <node id="1360087436" lat="40.0026871" lon="116.3461643">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1360087496" lat="39.9979100" lon="116.3586801">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1360087497" lat="39.9933855" lon="116.3588769">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄南口"/>
+    <tag k="name:zh" v="二里庄南口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1360093868" lat="39.9955906" lon="116.3466311">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1405134179" lat="40.0205084" lon="116.3677895"/>
+  <node id="1405134185" lat="40.0205295" lon="116.3658290"/>
+  <node id="1405134187" lat="40.0206928" lon="116.3677928"/>
+  <node id="1405134189" lat="40.0207138" lon="116.3658324"/>
+  <node id="1652481837" lat="40.0080572" lon="116.3624932">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="科荟桥东"/>
+    <tag k="name:zh" v="科荟桥东"/>
+    <tag k="name:zh-Hans" v="科荟桥东"/>
+    <tag k="name:zh-Hant" v="科薈橋東"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1652481854" lat="40.0083266" lon="116.3681100">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1652481907" lat="40.0096854" lon="116.3686634">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口北"/>
+    <tag k="name:zh" v="林萃路口北"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1652481960" lat="40.0213575" lon="116.3685048"/>
+  <node id="1652481964" lat="40.0213687" lon="116.3677038"/>
+  <node id="1652481966" lat="40.0214188" lon="116.3698524"/>
+  <node id="1652481968" lat="40.0214923" lon="116.3685200"/>
+  <node id="1652481970" lat="40.0215074" lon="116.3677056"/>
+  <node id="1652481972" lat="40.0215865" lon="116.3630845"/>
+  <node id="1652482000" lat="40.0235775" lon="116.3683275"/>
+  <node id="1652482059" lat="40.0034707" lon="116.3693763">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="奥运村西"/>
+    <tag k="name:zh" v="奥运村西"/>
+    <tag k="name:zh-Hans" v="奥运村西"/>
+    <tag k="name:zh-Hant" v="奧運村西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1652482066" lat="40.0083800" lon="116.3681141">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1652482071" lat="40.0081122" lon="116.3624918">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="科荟桥东"/>
+    <tag k="name:zh" v="科荟桥东"/>
+    <tag k="name:zh-Hans" v="科荟桥东"/>
+    <tag k="name:zh-Hant" v="科薈橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1652482075" lat="40.0066142" lon="116.3509216">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="科荟桥西"/>
+    <tag k="name:zh" v="科荟桥西"/>
+    <tag k="name:zh-Hans" v="科荟桥西"/>
+    <tag k="name:zh-Hant" v="科薈橋西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1718023500" lat="40.0082859" lon="116.3623372">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="科荟桥东"/>
+    <tag k="name:zh" v="科荟桥东"/>
+    <tag k="name:zh-Hans" v="科荟桥东"/>
+    <tag k="name:zh-Hant" v="科薈橋東"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1718023508" lat="40.0085400" lon="116.3681300">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1718023509" lat="40.0035565" lon="116.3695767">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="奥运村西"/>
+    <tag k="name:zh" v="奥运村西"/>
+    <tag k="name:zh-Hans" v="奥运村西"/>
+    <tag k="name:zh-Hant" v="奧運村西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1718023514" lat="40.0084791" lon="116.3681393">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1718023525" lat="40.0082115" lon="116.3623344">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="科荟桥东"/>
+    <tag k="name:zh" v="科荟桥东"/>
+    <tag k="name:zh-Hans" v="科荟桥东"/>
+    <tag k="name:zh-Hant" v="科薈橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1718023535" lat="40.0067308" lon="116.3508475">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="科荟桥西"/>
+    <tag k="name:zh" v="科荟桥西"/>
+    <tag k="name:zh-Hans" v="科荟桥西"/>
+    <tag k="name:zh-Hant" v="科薈橋西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732799824" lat="39.9997272" lon="116.3510140">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="中国农业大学东校区"/>
+    <tag k="name:zh" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hans" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hant" v="中國農業大學東校區"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732799825" lat="39.9998840" lon="116.3565901">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄北口"/>
+    <tag k="name:zh" v="二里庄北口"/>
+    <tag k="name:zh-Hans" v="二里庄北口"/>
+    <tag k="name:zh-Hant" v="二里莊北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732835094" lat="39.9999502" lon="116.3605672">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥西"/>
+    <tag k="name:zh" v="北沙滩桥西"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1732835108" lat="40.0001643" lon="116.3608228">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥西"/>
+    <tag k="name:zh" v="北沙滩桥西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1732835136" lat="39.9999855" lon="116.3605645">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥西"/>
+    <tag k="name:zh" v="北沙滩桥西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732835140" lat="40.0001245" lon="116.3608256">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥西"/>
+    <tag k="name:zh" v="北沙滩桥西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732905195" lat="39.9937648" lon="116.3588657">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄南口"/>
+    <tag k="name:zh" v="二里庄南口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1734208336" lat="40.0015169" lon="116.3623811">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥北"/>
+    <tag k="name:zh" v="北沙滩桥北"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1734208342" lat="40.0025014" lon="116.3617850"/>
+  <node id="1734208345" lat="40.0030867" lon="116.3615564">
+    <tag k="destination" v="大屯路;清华东路"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="大屯路/清华东路"/>
+    <tag k="ref" v="3B"/>
+  </node>
+  <node id="1734208348" lat="40.0036428" lon="116.3611444"/>
+  <node id="1734208351" lat="40.0038345" lon="116.3608298"/>
+  <node id="1734208359" lat="40.0040137" lon="116.3611140">
+    <tag k="destination" v="科荟路;急救中心"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="科荟路/急救中心"/>
+    <tag k="ref" v="4"/>
+  </node>
+  <node id="1734208373" lat="40.0042118" lon="116.3604365">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡南"/>
+    <tag k="name:zh" v="双泉堡南"/>
+    <tag k="name:zh-Hans" v="双泉堡南"/>
+    <tag k="name:zh-Hant" v="雙泉堡南"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1734208380" lat="40.0043810" lon="116.3610139"/>
+  <node id="1734208390" lat="40.0074757" lon="116.3581832"/>
+  <node id="1734208391" lat="40.0101785" lon="116.3563116"/>
+  <node id="1734208392" lat="40.0112491" lon="116.3550739"/>
+  <node id="1734208836" lat="40.0015473" lon="116.3624703">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥北"/>
+    <tag k="name:zh" v="北沙滩桥北"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1734208838" lat="40.0105208" lon="116.3558211">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="清河"/>
+  </node>
+  <node id="1734312911" lat="40.0201474" lon="116.3683666">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="地铁林萃桥站"/>
+    <tag k="name:zh" v="地铁林萃桥站"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1734313011" lat="40.0153882" lon="116.3686313">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="京师园"/>
+    <tag k="name:zh" v="京师园"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1734313019" lat="40.0129202" lon="116.3687252">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="倚林佳园东门"/>
+    <tag k="name:zh" v="倚林佳园东门"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1734313026" lat="40.0201453" lon="116.3683122">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="地铁林萃桥站"/>
+    <tag k="name:zh" v="地铁林萃桥站"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1734313034" lat="40.0112137" lon="116.3687763">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="澳林春天小区"/>
+    <tag k="name:zh" v="澳林春天小区"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1747588152" lat="39.9916690" lon="116.3628873">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="志新北里"/>
+    <tag k="name:zh" v="志新北里"/>
+    <tag k="name:zh-Hans" v="志新北里"/>
+    <tag k="name:zh-Hant" v="志新北里"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1754985795" lat="39.9974264" lon="116.3587093">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1754985796" lat="39.9990867" lon="116.3586361">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1787297283" lat="40.0071329" lon="116.3465143">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="石板房"/>
+    <tag k="name:zh" v="石板房"/>
+    <tag k="name:zh-Hans" v="石板房"/>
+    <tag k="name:zh-Hant" v="石板房"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1790399330" lat="39.9921159" lon="116.3528826">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北京科技大学北门"/>
+    <tag k="name:zh" v="北京科技大学北门"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1790399332" lat="39.9921909" lon="116.3527644">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北京科技大学北门"/>
+    <tag k="name:zh" v="北京科技大学北门"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1790399377" lat="39.9923027" lon="116.3598601">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="志新路"/>
+    <tag k="name:zh" v="志新路"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1790499033" lat="39.9998200" lon="116.3506409">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="中国农业大学东校区"/>
+    <tag k="name:zh" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hans" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hant" v="中國農業大學東校區"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1814111778" lat="40.0000013" lon="116.3562549">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄北口"/>
+    <tag k="name:zh" v="二里庄北口"/>
+    <tag k="name:zh-Hans" v="二里庄北口"/>
+    <tag k="name:zh-Hant" v="二里莊北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1831131330" lat="39.9934720" lon="116.3686166"/>
+  <node id="1831131334" lat="39.9939861" lon="116.3684370">
+    <tag k="destination" v="志新路;五道口"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="志新路"/>
+    <tag k="ref" v="3A"/>
+  </node>
+  <node id="1831149164" lat="40.0107569" lon="116.3553972"/>
+  <node id="1831149165" lat="40.0108425" lon="116.3554427"/>
+  <node id="1831149166" lat="40.0115072" lon="116.3548193"/>
+  <node id="1831149167" lat="40.0129171" lon="116.3542026"/>
+  <node id="1831149168" lat="40.0204071" lon="116.3492793"/>
+  <node id="1831149169" lat="40.0210652" lon="116.3502752"/>
+  <node id="1842951841" lat="40.0205474" lon="116.3667920">
+    <tag k="name" v="林萃桥"/>
+    <tag k="name:en" v="Lincuiqiao"/>
+    <tag k="name:zh" v="林萃桥"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="1977776218" lat="40.0001310" lon="116.3666289">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1977776220" lat="40.0001372" lon="116.3667293">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1977776222" lat="40.0001738" lon="116.3666241">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1977776223" lat="40.0001771" lon="116.3667242">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2093005591" lat="40.0206718" lon="116.3667880">
+    <tag k="name" v="林萃桥"/>
+    <tag k="name:en" v="Lincuiqiao"/>
+    <tag k="name:zh" v="林萃桥"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="2288037403" lat="39.9968573" lon="116.3664485">
+    <tag k="destination" v="清华东路;大屯路"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="清华东路/大屯路"/>
+    <tag k="ref" v="3B"/>
+  </node>
+  <node id="2288037407" lat="39.9976519" lon="116.3659864"/>
+  <node id="2426943664" lat="40.0131416" lon="116.3460610">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="name:zh-Hans" v="学知园"/>
+    <tag k="name:zh-Hant" v="學知園"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2426943667" lat="39.9957942" lon="116.3469129">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2426943675" lat="40.0029457" lon="116.3464776">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2426943677" lat="40.0174151" lon="116.3461502">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="马家沟"/>
+    <tag k="name:zh" v="马家沟"/>
+    <tag k="name:zh-Hans" v="马家沟"/>
+    <tag k="name:zh-Hant" v="馬家溝"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2502425350" lat="39.9920015" lon="116.3697739">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="安翔桥南"/>
+    <tag k="name:zh" v="安翔桥南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2502425351" lat="39.9945326" lon="116.3677477">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="南沙滩"/>
+    <tag k="name:zh" v="南沙滩"/>
+    <tag k="name:zh-Hant" v="南沙灘"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="2502425354" lat="39.9919586" lon="116.3696788">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="安翔桥南"/>
+    <tag k="name:zh" v="安翔桥南"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="2502425357" lat="39.9987148" lon="116.3644621">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥南"/>
+    <tag k="name:zh" v="北沙滩桥南"/>
+    <tag k="name:zh-Hans" v="北沙滩桥南"/>
+    <tag k="name:zh-Hant" v="北沙灘橋南"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2502434594" lat="40.0090354" lon="116.3575305">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2502434601" lat="40.0067377" lon="116.3584406">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2502434643" lat="40.0087266" lon="116.3578936">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2502434653" lat="40.0090689" lon="116.3576054">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2504963395" lat="39.9916993" lon="116.3630123">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="志新北里"/>
+    <tag k="name:zh" v="志新北里"/>
+    <tag k="name:zh-Hans" v="志新北里"/>
+    <tag k="name:zh-Hant" v="志新北里"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2504963404" lat="39.9924446" lon="116.3613822">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="志新路"/>
+    <tag k="name:zh" v="志新路"/>
+    <tag k="name:zh-Hans" v="志新路"/>
+    <tag k="name:zh-Hant" v="志新路"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2611952634" lat="39.9972379" lon="116.3657774"/>
+  <node id="2611952635" lat="39.9967753" lon="116.3663129"/>
+  <node id="3072761657" lat="40.0003466" lon="116.3675100">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3377339789" lat="40.0000584" lon="116.3620457">
+    <tag k="name" v="北沙滩"/>
+    <tag k="name:en" v="Beishatan"/>
+    <tag k="name:zh" v="北沙滩"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="3377339791" lat="40.0001896" lon="116.3620549">
+    <tag k="name" v="北沙滩"/>
+    <tag k="name:en" v="Beishatan"/>
+    <tag k="name:zh" v="北沙滩"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="3379245684" lat="39.9997438" lon="116.3466403">
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="name:zh-Hans" v="六道口"/>
+    <tag k="name:zh-Hant" v="六道口"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q18651655"/>
+    <tag k="wikipedia" v="zh:六道口站"/>
+  </node>
+  <node id="3379245686" lat="40.0001238" lon="116.3620432">
+    <tag k="name" v="北沙滩"/>
+    <tag k="name:en" v="Beishatan"/>
+    <tag k="name:ru" v="Бэйшатань"/>
+    <tag k="name:zh" v="北沙滩"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q18699937"/>
+  </node>
+  <node id="4370953916" lat="40.0092092" lon="116.3690251">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口北"/>
+    <tag k="name:zh" v="林萃路口北"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5271314543" lat="40.0052864" lon="116.3599050"/>
+  <node id="5271314544" lat="40.0059689" lon="116.3594081"/>
+  <node id="5271314545" lat="40.0060229" lon="116.3596055"/>
+  <node id="5289491621" lat="39.9962384" lon="116.3672331">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="南沙滩"/>
+    <tag k="name:zh" v="南沙滩"/>
+    <tag k="name:zh-Hant" v="南沙灘"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="5305506002" lat="40.0206001" lon="116.3667905">
+    <tag k="name" v="林萃桥"/>
+    <tag k="name:en" v="Lincuiqiao"/>
+    <tag k="name:ru" v="Линьцуйцяо"/>
+    <tag k="name:zh" v="林萃桥"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q4392184"/>
+  </node>
+  <node id="5687426565" lat="39.9995994" lon="116.3466443">
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="name:zh-Hans" v="六道口"/>
+    <tag k="name:zh-Hant" v="六道口"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q18651655"/>
+    <tag k="wikipedia" v="zh:六道口站"/>
+  </node>
+  <node id="5687426566" lat="39.9996659" lon="116.3466428">
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:ru" v="Людаокоу"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="name:zh-Hans" v="六道口"/>
+    <tag k="name:zh-Hant" v="六道口"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q18651655"/>
+    <tag k="wikipedia" v="zh:六道口站"/>
+  </node>
+  <node id="6220181025" lat="40.0168643" lon="116.3683101">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="京师园"/>
+    <tag k="name:zh" v="京师园"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7105962159" lat="40.0213175" lon="116.3535226">
+    <tag k="barrier" v="toll_booth"/>
+  </node>
+  <node id="7541150694" lat="40.0249166" lon="116.3455104">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="7590707162" lat="40.0164680" lon="116.3519998">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="花虎沟"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7590707163" lat="40.0164827" lon="116.3512039">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="花虎沟"/>
+    <tag k="name:zh" v="花虎沟"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7603977535" lat="40.0202521" lon="116.3679174">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="地铁林萃桥站"/>
+    <tag k="name:zh" v="地铁林萃桥站"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7639833284" lat="40.0110527" lon="116.3684758">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="澳林春天小区"/>
+    <tag k="name:zh" v="澳林春天小区"/>
+    <tag k="name:zh-Hant" v="澳林春天小區"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7639864125" lat="40.0140374" lon="116.3683856">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="倚林佳园东门"/>
+    <tag k="name:zh" v="倚林佳园东门"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7639870474" lat="40.0096800" lon="116.3685837">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口北"/>
+    <tag k="name:zh" v="林萃路口北"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7640228114" lat="39.9932349" lon="116.3694793">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="安翔桥北"/>
+    <tag k="name:zh" v="安翔桥北"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7697549599" lat="40.0132610" lon="116.3458790">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="name:zh-Hans" v="学知园"/>
+    <tag k="name:zh-Hant" v="學知園"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7809878965" lat="40.0149050" lon="116.3527934"/>
+  <node id="7925449518" lat="40.0213928" lon="116.3769364"/>
+  <node id="7925449521" lat="40.0212237" lon="116.3769755"/>
+  <node id="8617086755" lat="39.9989420" lon="116.3466457">
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="name:zh-Hans" v="六道口"/>
+    <tag k="name:zh-Hant" v="六道口"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="8889333034" lat="40.0084764" lon="116.3562631"/>
+  <node id="8889333035" lat="40.0083059" lon="116.3562061"/>
+  <node id="8889333036" lat="40.0080472" lon="116.3562963"/>
+  <node id="8889333037" lat="40.0078301" lon="116.3568408"/>
+  <node id="9176266284" lat="40.0057554" lon="116.3600008"/>
+  <node id="9176266289" lat="40.0085228" lon="116.3572969"/>
+  <node id="9176266290" lat="40.0087339" lon="116.3567846"/>
+  <node id="9176271773" lat="40.0128522" lon="116.3546487"/>
+  <node id="9176271774" lat="40.0111652" lon="116.3562494"/>
+  <node id="9176271775" lat="40.0114278" lon="116.3560613"/>
+  <node id="9176271776" lat="40.0132115" lon="116.3544251"/>
+  <node id="9176271777" lat="40.0117977" lon="116.3557636"/>
+  <node id="9176271778" lat="40.0109573" lon="116.3563802"/>
+  <node id="9176271779" lat="40.0107077" lon="116.3564803"/>
+  <node id="9176271780" lat="40.0103134" lon="116.3566259"/>
+  <node id="9176271781" lat="40.0100194" lon="116.3567466"/>
+  <node id="9176271782" lat="40.0095944" lon="116.3569427">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="北五环"/>
+    <tag k="ref" v="5"/>
+  </node>
+  <node id="9176271783" lat="40.0126929" lon="116.3547848"/>
+  <node id="9187438148" lat="40.0218981" lon="116.3698857"/>
+  <node id="9187438149" lat="40.0222904" lon="116.3696462"/>
+  <node id="9187438150" lat="40.0212135" lon="116.3650645"/>
+  <node id="9187438151" lat="40.0210991" lon="116.3661368"/>
+  <node id="9193109191" lat="40.0213895" lon="116.3649363"/>
+  <node id="9471058650" lat="40.0206577" lon="116.3658943"/>
+  <node id="9471058651" lat="40.0205757" lon="116.3658929"/>
+  <node id="9471058652" lat="40.0205576" lon="116.3677279"/>
+  <node id="9471058653" lat="40.0206393" lon="116.3677293"/>
+  <node id="9471121130" lat="40.0001469" lon="116.3611789"/>
+  <node id="9471121131" lat="40.0000511" lon="116.3611832"/>
+  <node id="9471121132" lat="40.0001008" lon="116.3630604"/>
+  <node id="9471121133" lat="40.0001964" lon="116.3630561"/>
+  <node id="9471150026" lat="39.9996982" lon="116.3457635"/>
+  <node id="9471150027" lat="39.9996000" lon="116.3457677"/>
+  <node id="9471150028" lat="39.9996444" lon="116.3475222"/>
+  <node id="9471150029" lat="39.9997424" lon="116.3475180"/>
+  <node id="9662232845" lat="40.0181481" lon="116.3505842"/>
+  <node id="9662232846" lat="40.0194611" lon="116.3495121"/>
+  <node id="9662232847" lat="40.0204679" lon="116.3487102">
+    <tag k="destination" v="北五环/箭亭桥"/>
+  </node>
+  <node id="9662232848" lat="40.0185797" lon="116.3502239"/>
+  <node id="9662232849" lat="40.0190534" lon="116.3498155"/>
+  <node id="9699355398" lat="39.9922419" lon="116.3598570">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="志新路"/>
+    <tag k="name:zh" v="志新路"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699355399" lat="39.9924885" lon="116.3613725">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="志新路"/>
+    <tag k="name:zh" v="志新路"/>
+    <tag k="name:zh-Hans" v="志新路"/>
+    <tag k="name:zh-Hant" v="志新路"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699355400" lat="39.9916727" lon="116.3628048">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="志新北里"/>
+    <tag k="name:zh" v="志新北里"/>
+    <tag k="name:zh-Hans" v="志新北里"/>
+    <tag k="name:zh-Hant" v="志新北里"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699355401" lat="39.9917056" lon="116.3630837">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="志新北里"/>
+    <tag k="name:zh" v="志新北里"/>
+    <tag k="name:zh-Hans" v="志新北里"/>
+    <tag k="name:zh-Hant" v="志新北里"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699426471" lat="39.9985091" lon="116.3586527">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9699426472" lat="39.9987023" lon="116.3586447">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9699426473" lat="39.9996064" lon="116.3590711">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9699426474" lat="39.9996043" lon="116.3590202">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699426475" lat="39.9990875" lon="116.3587613">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="9699426476" lat="39.9987002" lon="116.3585106">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699426477" lat="39.9979081" lon="116.3584945">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="9699426478" lat="39.9974293" lon="116.3587922">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699426479" lat="39.9985194" lon="116.3587224">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699426480" lat="39.9933947" lon="116.3587761">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄南口"/>
+    <tag k="name:zh" v="二里庄南口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9699455659" lat="39.9937790" lon="116.3589773">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄南口"/>
+    <tag k="name:zh" v="二里庄南口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586258" lat="39.9957596" lon="116.3466227">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9720586259" lat="39.9957434" lon="116.3465533">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586260" lat="39.9955955" lon="116.3465586">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586261" lat="39.9958009" lon="116.3469690">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="name:zh-Hans" v="学院路北口"/>
+    <tag k="name:zh-Hant" v="學院路北口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586262" lat="39.9998632" lon="116.3506409">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="中国农业大学东校区"/>
+    <tag k="name:zh" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hans" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hant" v="中國農業大學東校區"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586263" lat="39.9996618" lon="116.3510191">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="中国农业大学东校区"/>
+    <tag k="name:zh" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hans" v="中国农业大学东校区"/>
+    <tag k="name:zh-Hant" v="中國農業大學東校區"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586264" lat="39.9998547" lon="116.3565902">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄北口"/>
+    <tag k="name:zh" v="二里庄北口"/>
+    <tag k="name:zh-Hans" v="二里庄北口"/>
+    <tag k="name:zh-Hant" v="二里莊北口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9720586265" lat="40.0000687" lon="116.3562468">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="二里庄北口"/>
+    <tag k="name:zh" v="二里庄北口"/>
+    <tag k="name:zh-Hans" v="二里庄北口"/>
+    <tag k="name:zh-Hant" v="二里莊北口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9935568471" lat="40.0202407" lon="116.3680458">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="地铁林萃桥站"/>
+    <tag k="name:zh" v="地铁林萃桥站"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9935568472" lat="40.0168637" lon="116.3681987">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="京师园"/>
+    <tag k="name:zh" v="京师园"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9935568473" lat="40.0153898" lon="116.3687090">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="京师园"/>
+    <tag k="name:zh" v="京师园"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9935568474" lat="40.0140330" lon="116.3684750">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="倚林佳园东门"/>
+    <tag k="name:zh" v="倚林佳园东门"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9935568475" lat="40.0129123" lon="116.3687606">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="倚林佳园东门"/>
+    <tag k="name:zh" v="倚林佳园东门"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9935589703" lat="40.0110522" lon="116.3685903">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="澳林春天小区"/>
+    <tag k="name:zh" v="澳林春天小区"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9935589704" lat="40.0112135" lon="116.3688263">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="澳林春天小区"/>
+    <tag k="name:zh" v="澳林春天小区"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9935589705" lat="40.0092040" lon="116.3689339">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口北"/>
+    <tag k="name:zh" v="林萃路口北"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9935589706" lat="40.0034609" lon="116.3692984">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="奥运村西"/>
+    <tag k="name:zh" v="奥运村西"/>
+    <tag k="name:zh-Hans" v="奥运村西"/>
+    <tag k="name:zh-Hant" v="奧運村西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="9935589707" lat="40.0035549" lon="116.3696343">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="奥运村西"/>
+    <tag k="name:zh" v="奥运村西"/>
+    <tag k="name:zh-Hans" v="奥运村西"/>
+    <tag k="name:zh-Hant" v="奧運村西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="9997500188" lat="39.9922316" lon="116.3527545">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北京科技大学北门"/>
+    <tag k="name:zh" v="北京科技大学北门"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="9997500189" lat="39.9920600" lon="116.3529007">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北京科技大学北门"/>
+    <tag k="name:zh" v="北京科技大学北门"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="10076463210" lat="40.0052390" lon="116.3459678">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="石板房"/>
+    <tag k="name:zh" v="石板房"/>
+    <tag k="name:zh-Hans" v="石板房"/>
+    <tag k="name:zh-Hant" v="石板房"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="10080931635" lat="40.0071326" lon="116.3464562">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="石板房"/>
+    <tag k="name:zh" v="石板房"/>
+    <tag k="name:zh-Hans" v="石板房"/>
+    <tag k="name:zh-Hant" v="石板房"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10080931636" lat="40.0067811" lon="116.3508336">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="科荟桥西"/>
+    <tag k="name:zh" v="科荟桥西"/>
+    <tag k="name:zh-Hans" v="科荟桥西"/>
+    <tag k="name:zh-Hant" v="科薈橋西"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="10080931637" lat="40.0065727" lon="116.3509223">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="科荟桥西"/>
+    <tag k="name:zh" v="科荟桥西"/>
+    <tag k="name:zh-Hans" v="科荟桥西"/>
+    <tag k="name:zh-Hant" v="科薈橋西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="10080931638" lat="40.0131436" lon="116.3461746">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="name:zh-Hans" v="学知园"/>
+    <tag k="name:zh-Hant" v="學知園"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="10080931639" lat="40.0132651" lon="116.3457659">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="name:zh-Hans" v="学知园"/>
+    <tag k="name:zh-Hant" v="學知園"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="10080961803" lat="40.0052401" lon="116.3460126">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="石板房"/>
+    <tag k="name:zh" v="石板房"/>
+    <tag k="name:zh-Hans" v="石板房"/>
+    <tag k="name:zh-Hant" v="石板房"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10080961805" lat="40.0029504" lon="116.3465948">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="10080961806" lat="40.0026889" lon="116.3462676">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10136718980" lat="39.9962024" lon="116.3671490">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="南沙滩"/>
+    <tag k="name:zh" v="南沙滩"/>
+    <tag k="name:zh-Hans" v="南沙滩"/>
+    <tag k="name:zh-Hant" v="南沙灘"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10213484504" lat="39.9932130" lon="116.3694323">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="安翔桥北"/>
+    <tag k="name:zh" v="安翔桥北"/>
+    <tag k="name:zh-Hans" v="安翔桥北"/>
+    <tag k="name:zh-Hant" v="安翔橋北"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10213484505" lat="39.9945516" lon="116.3678027">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="南沙滩"/>
+    <tag k="name:zh" v="南沙滩"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10213510134" lat="39.9990211" lon="116.3649491">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥南"/>
+    <tag k="name:zh" v="北沙滩桥南"/>
+    <tag k="name:zh-Hans" v="北沙滩桥南"/>
+    <tag k="name:zh-Hant" v="北沙灘橋南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10213533504" lat="40.0038373" lon="116.3614080">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡南"/>
+    <tag k="name:zh" v="双泉堡南"/>
+    <tag k="name:zh-Hans" v="双泉堡南"/>
+    <tag k="name:zh-Hant" v="雙泉堡南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10605339566" lat="40.0136302" lon="116.3457528">
+    <tag k="name" v="学知园"/>
+    <tag k="name:en" v="Xuezhiyuan"/>
+    <tag k="name:ru" v="Сюэчжиюань"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wikidata" v="Q103745051"/>
+    <tag k="wikipedia" v="en:Xuezhiyuan station"/>
+  </node>
+  <node id="10610542855" lat="39.9989386" lon="116.3465717">
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="name:zh-Hans" v="六道口"/>
+    <tag k="name:zh-Hant" v="六道口"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="10610542858" lat="40.0136288" lon="116.3456879">
+    <tag k="name" v="学知园"/>
+    <tag k="name:en" v="Xuezhiyuan"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="10610542859" lat="40.0136303" lon="116.3457854">
+    <tag k="name" v="学知园"/>
+    <tag k="name:en" v="Xuezhiyuan"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="subway" v="yes"/>
+  </node>
+  <node id="10708191739" lat="40.0003433" lon="116.3673879">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10708191740" lat="40.0002962" lon="116.3673908">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10708191742" lat="40.0003007" lon="116.3675128">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="name:zh-Hans" v="北沙滩桥东"/>
+    <tag k="name:zh-Hant" v="北沙灘橋東"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706880" lat="40.0165174" lon="116.3512827">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="花虎沟"/>
+    <tag k="name:zh" v="花虎沟"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706881" lat="40.0198494" lon="116.3480768">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="上清桥南"/>
+    <tag k="name:zh" v="上清桥南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706882" lat="40.0197708" lon="116.3480057">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="上清桥南"/>
+    <tag k="name:zh" v="上清桥南"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="10732706883" lat="40.0245532" lon="116.3450286">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706884" lat="40.0248834" lon="116.3454158">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706885" lat="40.0132820" lon="116.3543663">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="花虎沟南"/>
+    <tag k="name:zh" v="花虎沟南"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10732706886" lat="40.0133345" lon="116.3544644">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="花虎沟南"/>
+    <tag k="name:zh" v="花虎沟南"/>
+    <tag k="name:zh-Hant" v="花虎溝南"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10823591208" lat="40.0195556" lon="116.3494319"/>
+  <node id="10888543688" lat="40.0012095" lon="116.3633120">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="北沙滩桥北"/>
+    <tag k="name:zh" v="北沙滩桥北"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="10888543689" lat="40.0012457" lon="116.3634083">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="北沙滩桥北"/>
+    <tag k="name:zh" v="北沙滩桥北"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="10896516710" lat="39.9910490" lon="116.3704745"/>
+  <node id="11513935913" lat="40.0083086" lon="116.3668010">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11513935914" lat="40.0082360" lon="116.3667954">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11777863779" lat="39.9966270" lon="116.3666242"/>
+  <node id="11777863780" lat="39.9965592" lon="116.3667235"/>
+  <node id="11777863781" lat="39.9963416" lon="116.3670374"/>
+  <node id="11777863782" lat="39.9964379" lon="116.3668710"/>
+  <node id="11789276111" lat="40.0084038" lon="116.3667331">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11789276112" lat="40.0084525" lon="116.3667213">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="name:zh-Hans" v="林萃路口西"/>
+    <tag k="name:zh-Hant" v="林萃路口西"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11799850895" lat="40.0188444" lon="116.3455852">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="学清路北口"/>
+    <tag k="name:zh" v="学清路北口"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799850896" lat="40.0188416" lon="116.3455088">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="学清路北口"/>
+    <tag k="name:zh" v="学清路北口"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="11799850897" lat="40.0175660" lon="116.3458740">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="马家沟"/>
+    <tag k="name:zh" v="马家沟"/>
+    <tag k="name:zh-Hans" v="马家沟"/>
+    <tag k="name:zh-Hant" v="馬家溝"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799850898" lat="40.0175616" lon="116.3457879">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="马家沟"/>
+    <tag k="name:zh" v="马家沟"/>
+    <tag k="name:zh-Hans" v="马家沟"/>
+    <tag k="name:zh-Hant" v="馬家溝"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="11799850899" lat="40.0174075" lon="116.3460256">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="马家沟"/>
+    <tag k="name:zh" v="马家沟"/>
+    <tag k="name:zh-Hans" v="马家沟"/>
+    <tag k="name:zh-Hant" v="馬家溝"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799850918" lat="40.0029000" lon="116.3461496">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="11799850919" lat="40.0028999" lon="116.3462565">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799850920" lat="40.0028208" lon="116.3464843">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799850921" lat="40.0028189" lon="116.3466060">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="11799962869" lat="40.0241641" lon="116.3459342"/>
+  <node id="11799962870" lat="40.0244273" lon="116.3456396"/>
+  <node id="11799962871" lat="40.0247188" lon="116.3455365">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11799962872" lat="40.0247587" lon="116.3456374">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11816605567" lat="40.0065919" lon="116.3586600">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11816605568" lat="40.0065585" lon="116.3585740">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="11816634969" lat="40.0082539" lon="116.3592160">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡东"/>
+    <tag k="name:zh" v="双泉堡东"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11816634970" lat="40.0083000" lon="116.3592100">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡东"/>
+    <tag k="name:zh" v="双泉堡东"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11816634971" lat="40.0083201" lon="116.3610894">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="双泉堡东"/>
+    <tag k="name:zh" v="双泉堡东"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="11816634972" lat="40.0083900" lon="116.3611000">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="双泉堡东"/>
+    <tag k="name:zh" v="双泉堡东"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="12402901810" lat="40.0146480" lon="116.3463130"/>
+  <node id="12402901811" lat="40.0144927" lon="116.3463248"/>
+  <node id="12402901812" lat="40.0144951" lon="116.3464471"/>
+  <node id="12402901813" lat="40.0146504" lon="116.3464353"/>
+  <node id="12402901837" lat="40.0127487" lon="116.3455953"/>
+  <node id="12402901838" lat="40.0126039" lon="116.3456059"/>
+  <node id="12402901839" lat="40.0126110" lon="116.3457001"/>
+  <node id="12402901840" lat="40.0127508" lon="116.3456873"/>
+  <node id="12594181605" lat="40.0226574" lon="116.3486161"/>
+  <node id="12594181606" lat="40.0227134" lon="116.3484893"/>
+  <node id="12594181607" lat="40.0221958" lon="116.3477355"/>
+  <node id="12594181608" lat="40.0225980" lon="116.3487026"/>
+  <node id="12594181609" lat="40.0224255" lon="116.3488103"/>
+  <node id="12594181610" lat="40.0219194" lon="116.3484906"/>
+  <node id="12594181611" lat="40.0220535" lon="116.3487081"/>
+  <node id="12594181612" lat="40.0218589" lon="116.3480706"/>
+  <node id="12594181613" lat="40.0227136" lon="116.3480419"/>
+  <node id="12594181614" lat="40.0225920" lon="116.3478468"/>
+  <node id="12594181615" lat="40.0223611" lon="116.3477204"/>
+  <node id="12594181616" lat="40.0227493" lon="116.3482636"/>
+  <node id="12806106912" lat="40.0162623" lon="116.3673069">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="京师园北门"/>
+    <tag k="name:zh" v="京师园北门"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="12806106913" lat="40.0161997" lon="116.3673062">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="京师园北门"/>
+    <tag k="name:zh" v="京师园北门"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="12806106914" lat="40.0162556" lon="116.3599013">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="融域嘉园"/>
+    <tag k="name:zh" v="融域嘉园"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="12806106915" lat="40.0161837" lon="116.3599066">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="融域嘉园"/>
+    <tag k="name:zh" v="融域嘉园"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="12817377001" lat="40.0164503" lon="116.3519512">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="花虎沟"/>
+    <tag k="name:zh" v="花虎沟"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="13063354463" lat="39.9927834" lon="116.3665136">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="志新路东口"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <way id="22067184">
+    <nd ref="237538987"/>
+    <nd ref="237538952"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="22270614">
+    <nd ref="9662232845"/>
+    <nd ref="9662232848"/>
+    <nd ref="9662232849"/>
+    <nd ref="9662232846"/>
+    <nd ref="10823591208"/>
+    <nd ref="239434611"/>
+    <nd ref="9662232847"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="22270616">
+    <nd ref="1317051523"/>
+    <nd ref="237538524"/>
+    <nd ref="1317051476"/>
+    <nd ref="1346457745"/>
+    <nd ref="1346457738"/>
+    <nd ref="1346457732"/>
+    <nd ref="9193109191"/>
+    <nd ref="1652481964"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="23116014">
+    <nd ref="249560946"/>
+    <nd ref="1317051471"/>
+    <nd ref="249560947"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24150814">
+    <nd ref="237538919"/>
+    <nd ref="261615253"/>
+    <nd ref="261615254"/>
+    <nd ref="1317051527"/>
+    <nd ref="261615255"/>
+    <nd ref="261615256"/>
+    <nd ref="1317051487"/>
+    <nd ref="1317051620"/>
+    <nd ref="1317051746"/>
+    <nd ref="1317051579"/>
+    <nd ref="1317051636"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24150821">
+    <nd ref="261615267"/>
+    <nd ref="1317051507"/>
+    <nd ref="261615274"/>
+    <nd ref="1317051649"/>
+    <nd ref="1317051695"/>
+    <nd ref="261615275"/>
+    <nd ref="1317051486"/>
+    <nd ref="1317051729"/>
+    <nd ref="261615276"/>
+    <nd ref="261615277"/>
+    <nd ref="261615278"/>
+    <nd ref="1317051559"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24150838">
+    <nd ref="9662232847"/>
+    <nd ref="261615348"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24150851">
+    <nd ref="249560948"/>
+    <nd ref="261615426"/>
+    <nd ref="261615427"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="24150864">
+    <nd ref="1317051695"/>
+    <nd ref="261615549"/>
+    <nd ref="261615550"/>
+    <nd ref="261615551"/>
+    <nd ref="1317051510"/>
+    <nd ref="261615552"/>
+    <nd ref="1317051440"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="26679311">
+    <nd ref="292590743"/>
+    <nd ref="261615267"/>
+    <nd ref="1317051491"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="29235318">
+    <nd ref="237538952"/>
+    <nd ref="237538919"/>
+    <nd ref="237538886"/>
+    <nd ref="1317051694"/>
+    <nd ref="237538815"/>
+    <nd ref="1317051589"/>
+    <nd ref="237538778"/>
+    <nd ref="237538750"/>
+    <nd ref="237538657"/>
+    <nd ref="237538626"/>
+    <nd ref="1317051553"/>
+    <nd ref="1317051688"/>
+    <nd ref="237538601"/>
+    <nd ref="244256506"/>
+    <nd ref="244256507"/>
+    <nd ref="244256508"/>
+    <nd ref="1317051736"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29235322">
+    <nd ref="321559328"/>
+    <nd ref="321559342"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+  </way>
+  <way id="29235323">
+    <nd ref="321559342"/>
+    <nd ref="261615279"/>
+    <nd ref="7809878965"/>
+    <nd ref="1831149167"/>
+    <nd ref="610908313"/>
+    <nd ref="610908272"/>
+    <nd ref="1734208391"/>
+    <nd ref="610908274"/>
+    <nd ref="1317051607"/>
+    <nd ref="701171510"/>
+    <nd ref="5271314544"/>
+    <nd ref="5271314543"/>
+    <nd ref="1734208348"/>
+    <nd ref="1734208345"/>
+    <nd ref="1359330094"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="29235324">
+    <nd ref="249561048"/>
+    <nd ref="1317051651"/>
+    <nd ref="1317051489"/>
+    <nd ref="1317051699"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29235326">
+    <nd ref="261615561"/>
+    <nd ref="261615429"/>
+    <nd ref="1225601288"/>
+    <nd ref="11799962869"/>
+    <nd ref="11799962870"/>
+    <nd ref="237546623"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="29235330">
+    <nd ref="261615348"/>
+    <nd ref="261615349"/>
+    <nd ref="12594181607"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="55820091">
+    <nd ref="701171245"/>
+    <nd ref="8889333037"/>
+    <nd ref="701171488"/>
+    <nd ref="1359330119"/>
+    <nd ref="701171490"/>
+    <nd ref="1359330123"/>
+    <nd ref="8889333036"/>
+    <nd ref="701171497"/>
+    <nd ref="1359330133"/>
+    <nd ref="8889333035"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="116920046">
+    <nd ref="237546599"/>
+    <nd ref="237546623"/>
+    <nd ref="1317051537"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="116920047">
+    <nd ref="9176271782"/>
+    <nd ref="9176271781"/>
+    <nd ref="9176271780"/>
+    <nd ref="9176271779"/>
+    <nd ref="9176271778"/>
+    <nd ref="9176271774"/>
+    <nd ref="9176271775"/>
+    <nd ref="9176271777"/>
+    <nd ref="1317051437"/>
+    <nd ref="1317051593"/>
+    <nd ref="1317051716"/>
+    <nd ref="9176271783"/>
+    <nd ref="9176271773"/>
+    <nd ref="9176271776"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920051">
+    <nd ref="610908313"/>
+    <nd ref="1317051684"/>
+    <nd ref="1831149166"/>
+    <nd ref="1317051638"/>
+    <nd ref="1831149164"/>
+    <nd ref="1317051468"/>
+    <nd ref="610908274"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920052">
+    <nd ref="1317051575"/>
+    <nd ref="1317051534"/>
+    <nd ref="1317051673"/>
+    <nd ref="1317051505"/>
+    <nd ref="1317051648"/>
+    <nd ref="1317051529"/>
+    <nd ref="7105962159"/>
+    <nd ref="1317051668"/>
+    <nd ref="1317051633"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920054">
+    <nd ref="1317051559"/>
+    <nd ref="1317051699"/>
+    <nd ref="1317051631"/>
+    <nd ref="1317051460"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920055">
+    <nd ref="1317051537"/>
+    <nd ref="1317051674"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+  </way>
+  <way id="116920056">
+    <nd ref="1317051689"/>
+    <nd ref="1317051523"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="116920057">
+    <nd ref="610909799"/>
+    <nd ref="1317051607"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920062">
+    <nd ref="249560947"/>
+    <nd ref="339581052"/>
+    <nd ref="261615397"/>
+    <nd ref="249560948"/>
+    <nd ref="249560949"/>
+    <nd ref="249560950"/>
+    <nd ref="249560953"/>
+    <nd ref="249560956"/>
+    <nd ref="249560957"/>
+    <nd ref="249560958"/>
+    <nd ref="249560959"/>
+    <nd ref="1317051720"/>
+    <nd ref="249560960"/>
+    <nd ref="249560965"/>
+    <nd ref="249560966"/>
+    <nd ref="249561009"/>
+    <nd ref="249561019"/>
+    <nd ref="249561020"/>
+    <nd ref="1317051557"/>
+    <nd ref="249561043"/>
+    <nd ref="249561047"/>
+    <nd ref="1317051696"/>
+    <nd ref="249561048"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920063">
+    <nd ref="261615246"/>
+    <nd ref="292590715"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="116920065">
+    <nd ref="1317051539"/>
+    <nd ref="1317051554"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="116920069">
+    <nd ref="1317051736"/>
+    <nd ref="1317051697"/>
+    <nd ref="1317051575"/>
+    <nd ref="1317051521"/>
+    <nd ref="1317051665"/>
+    <nd ref="1317051496"/>
+    <nd ref="1317051633"/>
+    <nd ref="1317051647"/>
+    <nd ref="1317051476"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920070">
+    <nd ref="1317051491"/>
+    <nd ref="1317051689"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="116920072">
+    <nd ref="1317051525"/>
+    <nd ref="237538987"/>
+    <nd ref="321559328"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="116920074">
+    <nd ref="12594181605"/>
+    <nd ref="12594181608"/>
+    <nd ref="261615354"/>
+    <nd ref="12594181609"/>
+    <nd ref="261615355"/>
+    <nd ref="261615356"/>
+    <nd ref="1317051494"/>
+    <nd ref="12594181611"/>
+    <nd ref="261615357"/>
+    <nd ref="12594181610"/>
+    <nd ref="261615358"/>
+    <nd ref="12594181612"/>
+    <nd ref="261615359"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="116920076">
+    <nd ref="1317051554"/>
+    <nd ref="261615359"/>
+    <nd ref="261615246"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="116920077">
+    <nd ref="237546576"/>
+    <nd ref="237546599"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+  </way>
+  <way id="119980752">
+    <nd ref="1346457732"/>
+    <nd ref="9187438150"/>
+    <nd ref="9187438151"/>
+    <nd ref="1346457680"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="119980757">
+    <nd ref="1346457745"/>
+    <nd ref="1346457725"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="119980758">
+    <nd ref="1346457722"/>
+    <nd ref="1346457738"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="121399145">
+    <nd ref="249561078"/>
+    <nd ref="2611952635"/>
+    <nd ref="1831131334"/>
+    <nd ref="249561081"/>
+    <nd ref="1359330069"/>
+    <nd ref="249561083"/>
+    <nd ref="1359330063"/>
+    <nd ref="249561085"/>
+    <nd ref="249561097"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="name:zh" v="京藏高速"/>
+    <tag k="name:zh-Hans" v="京藏高速"/>
+    <tag k="name:zh-Hant" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="121399150">
+    <nd ref="237546444"/>
+    <nd ref="1359330095"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北沙滩桥"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+  </way>
+  <way id="121399153">
+    <nd ref="1359330094"/>
+    <nd ref="249561078"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北沙滩桥"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+  </way>
+  <way id="121399160">
+    <nd ref="1359330095"/>
+    <nd ref="1734208359"/>
+    <nd ref="5271314545"/>
+    <nd ref="9176271782"/>
+    <nd ref="610908217"/>
+    <nd ref="610908219"/>
+    <nd ref="1317051541"/>
+    <nd ref="237546554"/>
+    <nd ref="261615327"/>
+    <nd ref="237546576"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="121399292">
+    <nd ref="237546286"/>
+    <nd ref="610908415"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="121399311">
+    <nd ref="610910322"/>
+    <nd ref="10896516710"/>
+    <nd ref="249561097"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="126857013">
+    <nd ref="1405134187"/>
+    <nd ref="1405134179"/>
+    <nd ref="1405134185"/>
+    <nd ref="1405134189"/>
+    <nd ref="1405134187"/>
+    <tag k="building" v="train_station"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="-4"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="152429657">
+    <nd ref="1346457680"/>
+    <nd ref="1346457656"/>
+    <nd ref="1346457657"/>
+    <nd ref="1346457670"/>
+    <nd ref="1346457682"/>
+    <nd ref="1346457714"/>
+    <nd ref="1652481966"/>
+    <nd ref="1346457755"/>
+    <nd ref="1346457794"/>
+    <nd ref="9187438148"/>
+    <nd ref="1346457815"/>
+    <nd ref="9187438149"/>
+    <nd ref="1346457831"/>
+    <nd ref="1346457848"/>
+    <nd ref="1346457858"/>
+    <nd ref="1346457880"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="152429662">
+    <nd ref="1346457772"/>
+    <nd ref="1652481972"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="152429671">
+    <nd ref="1346457880"/>
+    <nd ref="1652482000"/>
+    <nd ref="1346457887"/>
+    <nd ref="1346457902"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="152429676">
+    <nd ref="1652481964"/>
+    <nd ref="1652481960"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="152429677">
+    <nd ref="1652481968"/>
+    <nd ref="1652481970"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="152429678">
+    <nd ref="1652481970"/>
+    <nd ref="1652481972"/>
+    <nd ref="249560945"/>
+    <nd ref="249560946"/>
+    <nd ref="1317051539"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+  </way>
+  <way id="152429679">
+    <nd ref="1652481960"/>
+    <nd ref="1346457716"/>
+    <nd ref="7925449521"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="name:zh" v="北五环"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="161453443">
+    <nd ref="1734208359"/>
+    <nd ref="1734208380"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="161453446">
+    <nd ref="1734208351"/>
+    <nd ref="1734208348"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="161453447">
+    <nd ref="1734208345"/>
+    <nd ref="1734208342"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="161453456">
+    <nd ref="1317051684"/>
+    <nd ref="1734208392"/>
+    <nd ref="1831149165"/>
+    <nd ref="1734208838"/>
+    <nd ref="1734208391"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="172173296">
+    <nd ref="1317051440"/>
+    <nd ref="1831149168"/>
+    <nd ref="1317051597"/>
+    <nd ref="261615553"/>
+    <nd ref="261615554"/>
+    <nd ref="1317051617"/>
+    <nd ref="1831149169"/>
+    <nd ref="261615555"/>
+    <nd ref="261615556"/>
+    <nd ref="1317051743"/>
+    <nd ref="261615557"/>
+    <nd ref="1317051511"/>
+    <nd ref="1317051650"/>
+    <nd ref="261615558"/>
+    <nd ref="1317051609"/>
+    <nd ref="261615559"/>
+    <nd ref="1317051734"/>
+    <nd ref="261615560"/>
+    <nd ref="261615561"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="172173297">
+    <nd ref="261615427"/>
+    <nd ref="261615561"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="172180968">
+    <nd ref="1831131334"/>
+    <nd ref="1831131330"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="219661653">
+    <nd ref="11777863781"/>
+    <nd ref="11777863782"/>
+    <nd ref="11777863780"/>
+    <nd ref="11777863779"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="242787710">
+    <nd ref="249561097"/>
+    <nd ref="249561104"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="242789376">
+    <nd ref="8889333035"/>
+    <nd ref="701171499"/>
+    <nd ref="8889333034"/>
+    <nd ref="701171501"/>
+    <nd ref="701171504"/>
+    <nd ref="1359330142"/>
+    <nd ref="701171505"/>
+    <nd ref="9176266290"/>
+    <nd ref="1359330144"/>
+    <nd ref="1359330141"/>
+    <nd ref="701171507"/>
+    <nd ref="9176266289"/>
+    <nd ref="1734208390"/>
+    <nd ref="701171510"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="255512181">
+    <nd ref="2611952634"/>
+    <nd ref="2611952635"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="739539781">
+    <nd ref="237546286"/>
+    <nd ref="249561082"/>
+    <nd ref="1359330070"/>
+    <nd ref="237546309"/>
+    <nd ref="11777863779"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="name:zh" v="京藏高速"/>
+    <tag k="name:zh-Hans" v="京藏高速"/>
+    <tag k="name:zh-Hant" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="849487529">
+    <nd ref="7925449518"/>
+    <nd ref="528764201"/>
+    <nd ref="1346457734"/>
+    <nd ref="1652481968"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="北五环"/>
+    <tag k="name:en" v="North 5th Ring Road"/>
+    <tag k="name:zh" v="北五环"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="S50"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="993241538">
+    <nd ref="9176266284"/>
+    <nd ref="5271314545"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1027325784">
+    <nd ref="9471058650"/>
+    <nd ref="9471058651"/>
+    <nd ref="9471058652"/>
+    <nd ref="9471058653"/>
+    <nd ref="9471058650"/>
+    <tag k="area" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+  </way>
+  <way id="1027329775">
+    <nd ref="9471121130"/>
+    <nd ref="9471121131"/>
+    <nd ref="9471121132"/>
+    <nd ref="9471121133"/>
+    <nd ref="9471121130"/>
+    <tag k="area" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+  </way>
+  <way id="1027332866">
+    <nd ref="9471150026"/>
+    <nd ref="9471150027"/>
+    <nd ref="9471150028"/>
+    <nd ref="9471150029"/>
+    <nd ref="9471150026"/>
+    <tag k="area" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+  </way>
+  <way id="1172772465">
+    <nd ref="701733618"/>
+    <nd ref="237546286"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="name:zh" v="京藏高速"/>
+    <tag k="name:zh-Hans" v="京藏高速"/>
+    <tag k="name:zh-Hant" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="1268099018">
+    <nd ref="11777863779"/>
+    <nd ref="2288037403"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="name:zh" v="京藏高速"/>
+    <tag k="name:zh-Hans" v="京藏高速"/>
+    <tag k="name:zh-Hant" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="1268099020">
+    <nd ref="2288037403"/>
+    <nd ref="237546444"/>
+    <tag k="alt_name" v="八达岭高速"/>
+    <tag k="alt_name:en" v="Badaling Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="name" v="京藏高速"/>
+    <tag k="name:en" v="Beijing-Lasa Expwy"/>
+    <tag k="name:zh" v="京藏高速"/>
+    <tag k="name:zh-Hans" v="京藏高速"/>
+    <tag k="name:zh-Hant" v="京藏高速"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="G6;G110"/>
+    <tag k="short_name" v="京藏高速"/>
+  </way>
+  <way id="1268099021">
+    <nd ref="2288037403"/>
+    <nd ref="2288037407"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1340828349">
+    <nd ref="12402901810"/>
+    <nd ref="12402901811"/>
+    <nd ref="12402901812"/>
+    <nd ref="12402901813"/>
+    <nd ref="12402901810"/>
+    <tag k="building" v="yes"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+  </way>
+  <way id="1340828351">
+    <nd ref="12402901837"/>
+    <nd ref="12402901838"/>
+    <nd ref="12402901839"/>
+    <nd ref="12402901840"/>
+    <nd ref="12402901837"/>
+    <tag k="building" v="yes"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+  </way>
+  <way id="1360464944">
+    <nd ref="12594181606"/>
+    <nd ref="12594181605"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1360464945">
+    <nd ref="12594181607"/>
+    <nd ref="261615350"/>
+    <nd ref="12594181615"/>
+    <nd ref="261615351"/>
+    <nd ref="12594181614"/>
+    <nd ref="1317051703"/>
+    <nd ref="12594181613"/>
+    <nd ref="1317051663"/>
+    <nd ref="12594181616"/>
+    <nd ref="261615352"/>
+    <nd ref="12594181606"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <relation id="2061581">
+    <member type="node" ref="9935589707" role="platform"/>
+    <member type="node" ref="9935589706" role="platform"/>
+    <member type="node" ref="1652482059" role="stop"/>
+    <member type="node" ref="1718023509" role="stop"/>
+    <tag k="name" v="奥运村西"/>
+    <tag k="name:zh" v="奥运村西"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2061582">
+    <member type="node" ref="1652482066" role="stop"/>
+    <member type="node" ref="1652481854" role="platform"/>
+    <member type="node" ref="1718023514" role="stop"/>
+    <member type="node" ref="1718023508" role="platform"/>
+    <member type="node" ref="11513935913" role="stop"/>
+    <member type="node" ref="11513935914" role="platform"/>
+    <member type="node" ref="11789276111" role="stop"/>
+    <member type="node" ref="11789276112" role="platform"/>
+    <tag k="name" v="林萃路口西"/>
+    <tag k="name:zh" v="林萃路口西"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2061583">
+    <member type="node" ref="1652482071" role="stop"/>
+    <member type="node" ref="1652481837" role="platform"/>
+    <member type="node" ref="1718023525" role="stop"/>
+    <member type="node" ref="1718023500" role="platform"/>
+    <tag k="name" v="科荟桥东"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2061584">
+    <member type="node" ref="1652482075" role="stop"/>
+    <member type="node" ref="10080931637" role="platform"/>
+    <member type="node" ref="1718023535" role="stop"/>
+    <member type="node" ref="10080931636" role="platform"/>
+    <tag k="name" v="科荟路西口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2156101">
+    <member type="node" ref="9720586262" role="platform"/>
+    <member type="node" ref="9720586263" role="platform"/>
+    <member type="node" ref="1732799824" role="stop"/>
+    <member type="node" ref="1790499033" role="stop"/>
+    <tag k="name" v="中国农业大学东校区"/>
+    <tag k="name:zh" v="中国农业大学东校区"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2156102">
+    <member type="node" ref="9720586265" role="platform"/>
+    <member type="node" ref="9720586264" role="platform"/>
+    <member type="node" ref="1732799825" role="stop"/>
+    <member type="node" ref="1814111778" role="stop"/>
+    <tag k="name" v="二里庄北口"/>
+    <tag k="name:zh" v="二里庄北口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2156165">
+    <member type="node" ref="1732835136" role="stop"/>
+    <member type="node" ref="1732835094" role="platform"/>
+    <member type="node" ref="1732835140" role="stop"/>
+    <member type="node" ref="1732835108" role="platform"/>
+    <tag k="name" v="北沙滩桥西"/>
+    <tag k="name:zh" v="北沙滩桥西"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2156352">
+    <member type="node" ref="9699426478" role="platform"/>
+    <member type="node" ref="9699426477" role="platform"/>
+    <member type="node" ref="9699426476" role="platform"/>
+    <member type="node" ref="9699426479" role="platform"/>
+    <member type="node" ref="9699426475" role="platform"/>
+    <member type="node" ref="9699426474" role="platform"/>
+    <member type="node" ref="9699426471" role="stop"/>
+    <member type="node" ref="9699426472" role="stop"/>
+    <member type="node" ref="9699426473" role="stop"/>
+    <member type="node" ref="1360087496" role="stop"/>
+    <member type="node" ref="1754985795" role="stop"/>
+    <member type="node" ref="1754985796" role="stop"/>
+    <tag k="name" v="二里庄"/>
+    <tag k="name:zh" v="二里庄"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2156353">
+    <member type="node" ref="9699426480" role="platform"/>
+    <member type="node" ref="9699455659" role="platform"/>
+    <member type="node" ref="1732905195" role="stop"/>
+    <member type="node" ref="1360087497" role="stop"/>
+    <tag k="name" v="二里庄南口"/>
+    <tag k="name:zh" v="二里庄南口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162675">
+    <member type="node" ref="1734208836" role="stop"/>
+    <member type="node" ref="1734208336" role="platform"/>
+    <member type="node" ref="10888543688" role="stop"/>
+    <member type="node" ref="10888543689" role="platform"/>
+    <tag k="name" v="北沙滩桥北"/>
+    <tag k="name:zh" v="北沙滩桥北"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162676">
+    <member type="node" ref="737043854" role="stop"/>
+    <member type="node" ref="1734208373" role="platform"/>
+    <member type="node" ref="10213533504" role="stop"/>
+    <member type="node" ref="737043850" role="platform"/>
+    <tag k="name" v="双泉堡南"/>
+    <tag k="name:zh" v="双泉堡南"/>
+    <tag k="name:zh-Hans" v="双泉堡南"/>
+    <tag k="name:zh-Hant" v="雙泉堡南"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162810">
+    <member type="node" ref="9935568473" role="platform"/>
+    <member type="node" ref="9935568472" role="platform"/>
+    <member type="node" ref="6220181025" role="stop"/>
+    <member type="node" ref="1734313011" role="stop"/>
+    <tag k="name" v="京师园"/>
+    <tag k="name:zh" v="京师园"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162811">
+    <member type="node" ref="9935568475" role="platform"/>
+    <member type="node" ref="7639864125" role="platform"/>
+    <member type="node" ref="9935568474" role="stop"/>
+    <member type="node" ref="1734313019" role="stop"/>
+    <tag k="name" v="倚林佳园东门"/>
+    <tag k="name:zh" v="倚林佳园东门"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162812">
+    <member type="node" ref="7603977535" role="platform"/>
+    <member type="node" ref="9935568471" role="stop"/>
+    <member type="node" ref="1734313026" role="stop"/>
+    <member type="node" ref="1734312911" role="platform"/>
+    <tag k="name" v="地铁林萃桥站"/>
+    <tag k="name:zh" v="地铁林萃桥站"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2162813">
+    <member type="node" ref="9935589704" role="platform"/>
+    <member type="node" ref="7639833284" role="platform"/>
+    <member type="node" ref="9935589703" role="stop"/>
+    <member type="node" ref="1734313034" role="stop"/>
+    <tag k="name" v="澳林春天小区"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2177916">
+    <member type="node" ref="9699355401" role="platform"/>
+    <member type="node" ref="9699355400" role="platform"/>
+    <member type="node" ref="1747588152" role="stop"/>
+    <member type="node" ref="2504963395" role="stop"/>
+    <tag k="name" v="志新北里"/>
+    <tag k="name:zh" v="志新北里"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2236449">
+    <member type="node" ref="9997500188" role="platform"/>
+    <member type="node" ref="9997500189" role="platform"/>
+    <member type="node" ref="1790399330" role="stop"/>
+    <member type="node" ref="1790399332" role="stop"/>
+    <tag k="name" v="北京科技大学北门"/>
+    <tag k="name:zh" v="北京科技大学北门"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2236453">
+    <member type="node" ref="9699355398" role="platform"/>
+    <member type="node" ref="9699355399" role="platform"/>
+    <member type="node" ref="1790399377" role="stop"/>
+    <member type="node" ref="2504963404" role="stop"/>
+    <tag k="name" v="志新路"/>
+    <tag k="name:zh" v="志新路"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2519792">
+    <member type="node" ref="1977776220" role="platform"/>
+    <member type="node" ref="1977776218" role="platform"/>
+    <member type="node" ref="1977776222" role="stop"/>
+    <member type="node" ref="1977776223" role="stop"/>
+    <member type="node" ref="10708191742" role="stop"/>
+    <member type="node" ref="3072761657" role="platform"/>
+    <member type="node" ref="10708191740" role="stop"/>
+    <member type="node" ref="10708191739" role="platform"/>
+    <tag k="name" v="北沙滩桥东"/>
+    <tag k="name:zh" v="北沙滩桥东"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="2637824">
+    <member type="node" ref="1842951841" role="stop"/>
+    <member type="node" ref="2093005591" role="stop"/>
+    <member type="node" ref="5305506002" role=""/>
+    <member type="node" ref="7603978078" role=""/>
+    <member type="node" ref="7603978079" role=""/>
+    <member type="node" ref="7603978077" role=""/>
+    <member type="way" ref="126857013" role=""/>
+    <member type="way" ref="1027325784" role=""/>
+    <member type="node" ref="9471058656" role=""/>
+    <tag k="name" v="林萃桥"/>
+    <tag k="name:en" v="Lincuiqiao"/>
+    <tag k="name:zh" v="林萃桥"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="3156218">
+    <member type="node" ref="2426943664" role="stop"/>
+    <member type="node" ref="10080931638" role="platform"/>
+    <member type="node" ref="7697549599" role="stop"/>
+    <member type="node" ref="10080931639" role="platform"/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:zh" v="学知园"/>
+    <tag k="name:zh-Hans" v="学知园"/>
+    <tag k="name:zh-Hant" v="學知園"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="3156219">
+    <member type="node" ref="9720586258" role="stop"/>
+    <member type="node" ref="9720586259" role="platform"/>
+    <member type="node" ref="9720586260" role="platform"/>
+    <member type="node" ref="9720586261" role="platform"/>
+    <member type="node" ref="2426943667" role="stop"/>
+    <member type="node" ref="1360093868" role=""/>
+    <tag k="name" v="学院路北口"/>
+    <tag k="name:zh" v="学院路北口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="3156222">
+    <member type="node" ref="11799850920" role="stop"/>
+    <member type="node" ref="11799850921" role="platform"/>
+    <member type="node" ref="2426943675" role="stop"/>
+    <member type="node" ref="10080961805" role="platform"/>
+    <member type="node" ref="10080961806" role="stop"/>
+    <member type="node" ref="1360087436" role="platform"/>
+    <member type="node" ref="11799850919" role="stop"/>
+    <member type="node" ref="11799850918" role="platform"/>
+    <tag k="name" v="静淑苑"/>
+    <tag k="name:zh" v="静淑苑"/>
+    <tag k="name:zh-Hans" v="静淑苑"/>
+    <tag k="name:zh-Hant" v="靜淑苑"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="3156223">
+    <member type="node" ref="11799850899" role="stop"/>
+    <member type="node" ref="2426943677" role="platform"/>
+    <member type="node" ref="11799850897" role="stop"/>
+    <member type="node" ref="11799850898" role="platform"/>
+    <tag k="name" v="马家沟"/>
+    <tag k="name:zh" v="马家沟"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="4640443">
+    <member type="node" ref="5687426566" role=""/>
+    <member type="node" ref="5687426565" role="stop"/>
+    <member type="node" ref="3379245684" role="stop"/>
+    <member type="way" ref="1027332866" role="platform"/>
+    <member type="node" ref="9471150030" role=""/>
+    <member type="node" ref="9829553808" role=""/>
+    <member type="node" ref="9471150032" role=""/>
+    <member type="node" ref="9471150033" role=""/>
+    <member type="node" ref="11799850929" role=""/>
+    <member type="node" ref="9471150031" role=""/>
+    <member type="node" ref="11799850930" role=""/>
+    <member type="node" ref="10610542856" role=""/>
+    <member type="node" ref="10610542857" role=""/>
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="4640445">
+    <member type="node" ref="3377339789" role="stop"/>
+    <member type="node" ref="3377339791" role="stop"/>
+    <member type="node" ref="7553495968" role=""/>
+    <member type="node" ref="7553495970" role=""/>
+    <member type="node" ref="7553495967" role=""/>
+    <member type="node" ref="7553495969" role=""/>
+    <member type="node" ref="3379245686" role=""/>
+    <member type="way" ref="1027329775" role="platform"/>
+    <tag k="name" v="北沙滩"/>
+    <tag k="name:en" v="Beishatan"/>
+    <tag k="name:zh" v="北沙滩"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="14432034">
+    <member type="node" ref="1652481907" role="stop"/>
+    <member type="node" ref="9935589705" role="stop"/>
+    <member type="node" ref="4370953916" role="platform"/>
+    <member type="node" ref="7639870474" role="platform"/>
+    <tag k="name" v="林萃路口北"/>
+    <tag k="name:zh" v="林萃路口北"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="14705212">
+    <member type="node" ref="10080931635" role="stop"/>
+    <member type="node" ref="1787297283" role="platform"/>
+    <member type="node" ref="10080961803" role="stop"/>
+    <member type="node" ref="10076463210" role="platform"/>
+    <tag k="name" v="石板房"/>
+    <tag k="name:zh" v="石板房"/>
+    <tag k="name:zh-Hans" v="石板房"/>
+    <tag k="name:zh-Hant" v="石板房"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="14744293">
+    <member type="node" ref="2502425351" role="platform"/>
+    <member type="node" ref="10136718980" role="stop"/>
+    <member type="node" ref="5289491621" role="platform"/>
+    <member type="node" ref="10213484505" role="platform"/>
+    <tag k="name" v="南沙滩"/>
+    <tag k="name:zh" v="南沙滩"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15440384">
+    <member type="node" ref="5687426566" role=""/>
+    <member type="node" ref="10610542855" role="stop"/>
+    <member type="node" ref="8617086755" role="stop"/>
+    <member type="node" ref="9471150030" role=""/>
+    <member type="node" ref="9829553808" role=""/>
+    <member type="node" ref="9471150032" role=""/>
+    <member type="node" ref="9471150033" role=""/>
+    <member type="node" ref="11799850929" role=""/>
+    <member type="node" ref="9471150031" role=""/>
+    <member type="node" ref="11799850930" role=""/>
+    <member type="node" ref="10610542856" role=""/>
+    <member type="node" ref="10610542857" role=""/>
+    <tag k="name" v="六道口"/>
+    <tag k="name:en" v="Liudaokou"/>
+    <tag k="name:zh" v="六道口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15440385">
+    <member type="node" ref="10605339566" role=""/>
+    <member type="node" ref="10610542858" role="stop"/>
+    <member type="node" ref="10610542859" role="stop"/>
+    <member type="node" ref="11542962540" role=""/>
+    <member type="node" ref="11542962541" role=""/>
+    <member type="node" ref="11542962542" role=""/>
+    <tag k="name" v="学知园"/>
+    <tag k="name:en" v="Xuezhiyuan"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15595579">
+    <member type="node" ref="10732706880" role="stop"/>
+    <member type="node" ref="7590707163" role="platform"/>
+    <member type="node" ref="7590707162" role="platform"/>
+    <member type="node" ref="12817377001" role="stop"/>
+    <tag k="name" v="花虎沟"/>
+    <tag k="name:zh" v="花虎沟"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15595580">
+    <member type="node" ref="10732706881" role="stop"/>
+    <member type="node" ref="10732706882" role="platform"/>
+    <tag k="name" v="上清桥南"/>
+    <tag k="name:zh" v="上清桥南"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15595581">
+    <member type="node" ref="10732706884" role="stop"/>
+    <member type="node" ref="7541150694" role="platform"/>
+    <member type="node" ref="11799962871" role="stop"/>
+    <member type="node" ref="11799962872" role="platform"/>
+    <member type="node" ref="10732706883" role="stop"/>
+    <member type="node" ref="7541150695" role="platform"/>
+    <tag k="name" v="清河南镇"/>
+    <tag k="name:zh" v="清河南镇"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15595582">
+    <member type="node" ref="10732706885" role="stop"/>
+    <member type="node" ref="10732706886" role="platform"/>
+    <tag k="name" v="花虎沟南"/>
+    <tag k="name:zh" v="花虎沟南"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15595583">
+    <member type="node" ref="2502434594" role="stop"/>
+    <member type="node" ref="2502434653" role="platform"/>
+    <member type="node" ref="737043848" role="stop"/>
+    <member type="node" ref="2502434601" role="platform"/>
+    <member type="node" ref="737043871" role="stop"/>
+    <member type="node" ref="2502434643" role="platform"/>
+    <member type="node" ref="11816605567" role="stop"/>
+    <member type="node" ref="11816605568" role="platform"/>
+    <tag k="name" v="双泉堡"/>
+    <tag k="name:zh" v="双泉堡"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15854045">
+    <member type="node" ref="2502425350" role="stop"/>
+    <member type="node" ref="2502425354" role="platform"/>
+    <tag k="name" v="安翔桥南"/>
+    <tag k="name:zh" v="安翔桥南"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15854046">
+    <member type="node" ref="10213484504" role="stop"/>
+    <member type="node" ref="7640228114" role="platform"/>
+    <tag k="name" v="安翔桥北"/>
+    <tag k="name:zh" v="安翔桥北"/>
+    <tag k="name:zh-Hans" v="安翔桥北"/>
+    <tag k="name:zh-Hant" v="安翔橋北"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="15854047">
+    <member type="node" ref="10213510134" role="stop"/>
+    <member type="node" ref="737043858" role="platform"/>
+    <member type="node" ref="737043856" role="stop"/>
+    <member type="node" ref="2502425357" role="platform"/>
+    <tag k="name" v="北沙滩桥南"/>
+    <tag k="name:zh" v="北沙滩桥南"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="17439672">
+    <member type="node" ref="11799850895" role="stop"/>
+    <member type="node" ref="11799850896" role="platform"/>
+    <tag k="name" v="学清路北口"/>
+    <tag k="name:zh" v="学清路北口"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="17469632">
+    <member type="node" ref="11816634969" role="stop"/>
+    <member type="node" ref="11816634970" role="platform"/>
+    <member type="node" ref="11816634971" role="stop"/>
+    <member type="node" ref="11816634972" role="platform"/>
+    <tag k="name" v="双泉堡东"/>
+    <tag k="name:zh" v="双泉堡东"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="19074416">
+    <member type="node" ref="12806106912" role="stop"/>
+    <member type="node" ref="12806106913" role="platform"/>
+    <tag k="name" v="京师园北门"/>
+    <tag k="name:zh" v="京师园北门"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="19074417">
+    <member type="node" ref="12806106914" role="stop"/>
+    <member type="node" ref="12806106915" role="platform"/>
+    <tag k="name" v="融域嘉园"/>
+    <tag k="name:zh" v="融域嘉园"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType
+        id="slowCar"
+        accel="2.6"
+        decel="4.5"
+        sigma="0.0"
+        length="5.0"
+        minGap="2.5"
+        maxSpeed="33.33"
+        guiShape="passenger"
+    />
+    <vType
+        id="helperCar"
+        accel="2.6"
+        decel="4.5"
+        sigma="0.1"
+        length="5.0"
+        minGap="2.5"
+        maxSpeed="33.33"
+        guiShape="passenger"
+    />
+
+    <route id="r0" edges="e0 e1 e2"/>
+
+    <vehicle id="slow_leader" type="slowCar" route="r0" depart="0.0" departLane="best" departPos="320.0" departSpeed="12.0"/>
+    <vehicle id="helper_1" type="helperCar" route="r0" depart="0.0" departLane="best" departPos="0.0" departSpeed="max"/>
+    <vehicle id="helper_2" type="helperCar" route="r0" depart="0.0" departLane="best" departPos="50.0" departSpeed="max"/>
+    <vehicle id="helper_3" type="helperCar" route="r0" depart="0.0" departLane="best" departPos="100.0" departSpeed="max"/>
+    <vehicle id="helper_4" type="helperCar" route="r0" depart="0.0" departLane="best" departPos="150.0" departSpeed="max"/>
+</routes>

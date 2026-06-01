@@ -1,0 +1,84 @@
+{
+  "name": "beijing_g6_highway_demo",
+  "map": {
+    "output_dir": "scenarios/beijing_g6_demo",
+    "prefix": "beijing_g6",
+    "place_query": "G6 Expressway Beijing",
+    "bbox": [116.345, 39.99, 116.371, 40.026],
+    "road_types": {
+      "highway": ["motorway", "motorway_link", "trunk", "trunk_link"]
+    },
+    "keep_edge_types": [
+      "highway.motorway",
+      "highway.motorway_link",
+      "highway.trunk",
+      "highway.trunk_link"
+    ],
+    "remove_geometry": true,
+    "join_junctions": true,
+    "guess_ramps": true
+  },
+  "route": {
+    "begin": 0.0,
+    "end": 900.0,
+    "period": 2.0,
+    "fringe_factor": 20.0,
+    "seed": 7,
+    "validate": true
+  },
+  "dataset": {
+    "type": "highd",
+    "root": "data/highD",
+    "recording_id": 1,
+    "start_frame": 0,
+    "end_frame": 250,
+    "frame_step": 5,
+    "driving_direction": null,
+    "lane_ids": null,
+    "max_vehicles": 24,
+    "center_positions": true
+  },
+  "mobility": {
+    "safe_distance": 80.0,
+    "acceleration": 3.0,
+    "system_delay_cap": 0.25,
+    "min_speed": 20.0,
+    "speed_limit": 33.33,
+    "max_acceleration": 2.5,
+    "segment_length": 1000.0
+  },
+  "communication": {
+    "bandwidth": 10000000.0,
+    "tx_power": 0.1,
+    "noise_density": 1e-09,
+    "pathloss_exp": 2.5,
+    "pathloss_const": 0.001,
+    "max_distance": 300.0,
+    "min_rate": 100000.0
+  },
+  "offloading": {
+    "resource_names": ["GPU", "TPU", "CPU"],
+    "component_types": ["perception", "processing", "planning"],
+    "base_compute": [12000000000.0, 10000000000.0, 6000000000.0],
+    "base_fraction": 0.5,
+    "base_price": [2e-09, 2.5e-09, 1e-09],
+    "base_lambda_bits": [40000000.0, 10000000.0, 5000000.0],
+    "base_cycles_per_bit": [800.0, 1500.0, 2200.0],
+    "task_load_scale": 0.005,
+    "output_size_ratio": 0.05,
+    "penalty_s": 1000000.0,
+    "penalty_t": 10000.0,
+    "stage2_speed_grid": 8
+  },
+  "incentive": {
+    "value_of_time": 1.0,
+    "opportunity_cost_lambda": 1.0
+  },
+  "simulation": {
+    "mode": "sumo",
+    "steps": 60,
+    "seed": 7,
+    "step_length": 0.1,
+    "max_vehicles": 24
+  }
+}
