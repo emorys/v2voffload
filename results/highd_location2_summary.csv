@@ -1,0 +1,4 @@
+recording_id,location_id,frame_start,frame_end,frame_count,avg_vehicle_count,min_vehicle_count,max_vehicle_count,avg_speed,min_speed,slow_frame_ratio,avg_slow_count,avg_helper_count,avg_neighbor_count,triggerable_frame_ratio
+1,2,5,250,50,12.08,6,14,34.20140348188669,22.170225528848373,0.0,0.0,8.66,10.223894993894994,0.0
+2,2,5,250,50,9.12,6,11,34.3929261706833,21.634077285615856,0.0,0.0,6.44,7.737484848484847,0.0
+3,2,5,250,50,18.84,14,22,29.70020647068195,22.360020125214557,0.0,0.0,13.86,16.92735630296776,0.0

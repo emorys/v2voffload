@@ -24,7 +24,7 @@
   },
   "dataset": {
     "type": "highd",
-    "root": "data/highD",
+    "root": "data/highD_filtered",
     "location_id": 2,
     "recording_id": 0,
     "start_frame": 0,
